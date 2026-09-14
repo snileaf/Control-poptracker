@@ -1,0 +1,1897 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Astral Plane (Location)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1881,
+                        "y": 1885,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Collectibles",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Official - Agent Death Notification",
+                        "ref": "Collectibles/Correspondence/Official/Agent Death Notification"
+                    },
+                    {
+                        "name": "Official - Approved Terminology Reminder",
+                        "ref": "Collectibles/Correspondence/Official/Approved Terminology Reminder"
+                    },
+                    {
+                        "name": "Official - Arish - Escaped OoP",
+                        "ref": "Collectibles/Correspondence/Official/Arish - Escaped OoP"
+                    },
+                    {
+                        "name": "Official - Arish - Security Matters",
+                        "ref": "Collectibles/Correspondence/Official/Arish - Security Matters"
+                    },
+                    {
+                        "name": "Official - Cafeteria Concerns",
+                        "ref": "Collectibles/Correspondence/Official/Cafeteria Concerns"
+                    },
+                    {
+                        "name": "Official - Carla - File Received",
+                        "ref": "Collectibles/Correspondence/Official/Carla - File Received"
+                    },
+                    {
+                        "name": "Official - Darling - Budget Request",
+                        "ref": "Collectibles/Correspondence/Official/Darling - Budget Request"
+                    },
+                    {
+                        "name": "Official - Darling - Underhill Disagreement",
+                        "ref": "Collectibles/Correspondence/Official/Darling - Underhill Disagreement"
+                    },
+                    {
+                        "name": "Official - Dump Cessation of Work Order",
+                        "ref": "Collectibles/Correspondence/Official/Dump Cessation of Work Order"
+                    },
+                    {
+                        "name": "Official - Executive Meeting Minutes",
+                        "ref": "Collectibles/Correspondence/Official/Executive Meeting Minutes"
+                    },
+                    {
+                        "name": "Official - Field Training Actor Complaint",
+                        "ref": "Collectibles/Correspondence/Official/Field Training Actor Complaint"
+                    },
+                    {
+                        "name": "Official - Hubert - Black Rock Analysis",
+                        "ref": "Collectibles/Correspondence/Official/Hubert - Black Rock Analysis"
+                    },
+                    {
+                        "name": "Official - Marshall - AWE Investigations",
+                        "ref": "Collectibles/Correspondence/Official/Marshall - AWE Investigations"
+                    },
+                    {
+                        "name": "Official - Marshall - Lockdown Distinctions",
+                        "ref": "Collectibles/Correspondence/Official/Marshall - Lockdown Distinctions"
+                    },
+                    {
+                        "name": "Official - Marshall - Trenchs Behavior",
+                        "ref": "Collectibles/Correspondence/Official/Marshall - Trenchs Behavior"
+                    },
+                    {
+                        "name": "Official - No Smoking Reminder",
+                        "ref": "Collectibles/Correspondence/Official/No Smoking Reminder"
+                    },
+                    {
+                        "name": "Official - Precognitive Powers",
+                        "ref": "Collectibles/Correspondence/Official/Precognitive Powers"
+                    },
+                    {
+                        "name": "Official - Prohibited Items Reminder",
+                        "ref": "Collectibles/Correspondence/Official/Prohibited Items Reminder"
+                    },
+                    {
+                        "name": "Official - R4 Reports Reminder",
+                        "ref": "Collectibles/Correspondence/Official/R4 Reports Reminder"
+                    },
+                    {
+                        "name": "Official - Security Order",
+                        "ref": "Collectibles/Correspondence/Official/Security Order"
+                    },
+                    {
+                        "name": "Official - Sensory Tank Purpose",
+                        "ref": "Collectibles/Correspondence/Official/Sensory Tank Purpose"
+                    },
+                    {
+                        "name": "Official - Tommasi - Willow AWE Outcome",
+                        "ref": "Collectibles/Correspondence/Official/Tommasi - Willow AWE Outcome"
+                    },
+                    {
+                        "name": "Official - Travel Costs",
+                        "ref": "Collectibles/Correspondence/Official/Travel Costs"
+                    },
+                    {
+                        "name": "Official - Trench - Bureau Funding",
+                        "ref": "Collectibles/Correspondence/Official/Trench - Bureau Funding"
+                    },
+                    {
+                        "name": "Official - Trench - Dead Letter Approval",
+                        "ref": "Collectibles/Correspondence/Official/Trench - Dead Letter Approval"
+                    },
+                    {
+                        "name": "Official - Unstable Area Notice",
+                        "ref": "Collectibles/Correspondence/Official/Unstable Area Notice"
+                    },
+                    {
+                        "name": "Official - Visitor Evaluations",
+                        "ref": "Collectibles/Correspondence/Official/Visitor Evaluations"
+                    },
+                    {
+                        "name": "Non-Official - Book Club - Lopez",
+                        "ref": "Collectibles/Correspondence/Non-Official/Book Club - Lopez"
+                    },
+                    {
+                        "name": "Non-Official - Book Club - Penny",
+                        "ref": "Collectibles/Correspondence/Non-Official/Book Club - Penny"
+                    },
+                    {
+                        "name": "Non-Official - Book Club - Phillip",
+                        "ref": "Collectibles/Correspondence/Non-Official/Book Club - Phillip"
+                    },
+                    {
+                        "name": "Non-Official - Book Club - Samson",
+                        "ref": "Collectibles/Correspondence/Non-Official/Book Club - Samson"
+                    },
+                    {
+                        "name": "Non-Official - Clog Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Clog Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Darling - Dimensional Staffing",
+                        "ref": "Collectibles/Correspondence/Non-Official/Darling - Dimensional Staffing"
+                    },
+                    {
+                        "name": "Non-Official - Dinner Reservations",
+                        "ref": "Collectibles/Correspondence/Non-Official/Dinner Reservations"
+                    },
+                    {
+                        "name": "Non-Official - Dr. Tokui Tapes",
+                        "ref": "Collectibles/Correspondence/Non-Official/Dr. Tokui Tapes"
+                    },
+                    {
+                        "name": "Non-Official - Furnace Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Furnace Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Janitor Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Janitor Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Mail Tube Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Mail Tube Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Plant Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Plant Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Quarry Equipment Order",
+                        "ref": "Collectibles/Correspondence/Non-Official/Quarry Equipment Order"
+                    },
+                    {
+                        "name": "Non-Official - Quarry Worker Incident",
+                        "ref": "Collectibles/Correspondence/Non-Official/Quarry Worker Incident"
+                    },
+                    {
+                        "name": "Non-Official - Sand Memo",
+                        "ref": "Collectibles/Correspondence/Non-Official/Sand Memo"
+                    },
+                    {
+                        "name": "Non-Official - Shifted Bathroom Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Shifted Bathroom Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Sticky Note Complaint",
+                        "ref": "Collectibles/Correspondence/Non-Official/Sticky Note Complaint"
+                    },
+                    {
+                        "name": "Non-Official - Tee Time",
+                        "ref": "Collectibles/Correspondence/Non-Official/Tee Time"
+                    },
+                    {
+                        "name": "Non-Official - Tennyson Report Warning",
+                        "ref": "Collectibles/Correspondence/Non-Official/Tennyson Report Warning"
+                    },
+                    {
+                        "name": "Non-Official - Trench - Do Not Disturb",
+                        "ref": "Collectibles/Correspondence/Non-Official/Trench - Do Not Disturb"
+                    },
+                    {
+                        "name": "Non-Official - Underhill - Checking In",
+                        "ref": "Collectibles/Correspondence/Non-Official/Underhill - Checking In"
+                    },
+                    {
+                        "name": "Non-Official - Upcoming Game Reminder",
+                        "ref": "Collectibles/Correspondence/Non-Official/Upcoming Game Reminder"
+                    },
+                    {
+                        "name": "Non-Official - Work Chat - Dead Dog",
+                        "ref": "Collectibles/Correspondence/Non-Official/Work Chat - Dead Dog"
+                    },
+                    {
+                        "name": "Non-Official - Work Chat - Plane Parts",
+                        "ref": "Collectibles/Correspondence/Non-Official/Work Chat - Plane Parts"
+                    },
+                    {
+                        "name": "Non-Official - Work Chat - Teeth",
+                        "ref": "Collectibles/Correspondence/Non-Official/Work Chat - Teeth"
+                    },
+                    {
+                        "name": "Dead Letters - Cat Clock",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Cat Clock"
+                    },
+                    {
+                        "name": "Dead Letters - Dead Presidents",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Dead Presidents"
+                    },
+                    {
+                        "name": "Dead Letters - Fake Planes",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Fake Planes"
+                    },
+                    {
+                        "name": "Dead Letters - Machine God",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Machine God"
+                    },
+                    {
+                        "name": "Dead Letters - Our Whereabouts",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Our Whereabouts"
+                    },
+                    {
+                        "name": "Dead Letters - Pinstripe World",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Pinstripe World"
+                    },
+                    {
+                        "name": "Dead Letters - Singing Fish",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Singing Fish"
+                    },
+                    {
+                        "name": "Dead Letters - Smoking Ban",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Smoking Ban"
+                    },
+                    {
+                        "name": "Dead Letters - Vivid Dreams",
+                        "ref": "Collectibles/Correspondence/Dead Letters/Vivid Dreams"
+                    },
+                    {
+                        "name": "Dead Letters - White Kitchen",
+                        "ref": "Collectibles/Correspondence/Dead Letters/White Kitchen"
+                    },
+                    {
+                        "name": "Research - Ahtis Cabin",
+                        "ref": "Collectibles/Research & Records/Research/Ahtis Cabin"
+                    },
+                    {
+                        "name": "Research - Album Cover",
+                        "ref": "Collectibles/Research & Records/Research/Album Cover"
+                    },
+                    {
+                        "name": "Research - Astral Exhibition",
+                        "ref": "Collectibles/Research & Records/Research/Astral Exhibition"
+                    },
+                    {
+                        "name": "Research - Astral Plane (Research)",
+                        "ref": "Collectibles/Research & Records/Research/Astral Plane (Research)"
+                    },
+                    {
+                        "name": "Research - Astral Plane Counteressay",
+                        "ref": "Collectibles/Research & Records/Research/Astral Plane Counteressay"
+                    },
+                    {
+                        "name": "Research - Atlas Theory",
+                        "ref": "Collectibles/Research & Records/Research/Atlas Theory"
+                    },
+                    {
+                        "name": "Research - Black Rock (Research)",
+                        "ref": "Collectibles/Research & Records/Research/Black Rock (Research)"
+                    },
+                    {
+                        "name": "Research - Black Rock Prisms",
+                        "ref": "Collectibles/Research & Records/Research/Black Rock Prisms"
+                    },
+                    {
+                        "name": "Research - Collective Unconscious",
+                        "ref": "Collectibles/Research & Records/Research/Collective Unconscious"
+                    },
+                    {
+                        "name": "Research - Control Points (Research)",
+                        "ref": "Collectibles/Research & Records/Research/Control Points (Research)"
+                    },
+                    {
+                        "name": "Research - Groupthink",
+                        "ref": "Collectibles/Research & Records/Research/Groupthink"
+                    },
+                    {
+                        "name": "Research - Hedron Containment",
+                        "ref": "Collectibles/Research & Records/Research/Hedron Containment"
+                    },
+                    {
+                        "name": "Research - Home Safe Tests",
+                        "ref": "Collectibles/Research & Records/Research/Home Safe Tests"
+                    },
+                    {
+                        "name": "Research - Lucky Item Manifest",
+                        "ref": "Collectibles/Research & Records/Research/Lucky Item Manifest"
+                    },
+                    {
+                        "name": "Research - Mirror Altered Item",
+                        "ref": "Collectibles/Research & Records/Research/Mirror Altered Item"
+                    },
+                    {
+                        "name": "Research - Mirror Containment",
+                        "ref": "Collectibles/Research & Records/Research/Mirror Containment"
+                    },
+                    {
+                        "name": "Research - Mold Threshold",
+                        "ref": "Collectibles/Research & Records/Research/Mold Threshold"
+                    },
+                    {
+                        "name": "Research - NSC",
+                        "ref": "Collectibles/Research & Records/Research/NSC"
+                    },
+                    {
+                        "name": "Research - Object and Item Distinctions",
+                        "ref": "Collectibles/Research & Records/Research/Object and Item Distinctions"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 1.A",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 1.A"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 1.B",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 1.B"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 2",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 2"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 3",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 3"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 4.A",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 4.A"
+                    },
+                    {
+                        "name": "Research - Ordinary AWE Stage 4.B",
+                        "ref": "Collectibles/Research & Records/Research/Ordinary AWE Stage 4.B"
+                    },
+                    {
+                        "name": "Research - Parautility",
+                        "ref": "Collectibles/Research & Records/Research/Parautility"
+                    },
+                    {
+                        "name": "Research - Resonance Theory",
+                        "ref": "Collectibles/Research & Records/Research/Resonance Theory"
+                    },
+                    {
+                        "name": "Research - Rituals",
+                        "ref": "Collectibles/Research & Records/Research/Rituals"
+                    },
+                    {
+                        "name": "Research - Slide Projector Tests",
+                        "ref": "Collectibles/Research & Records/Research/Slide Projector Tests"
+                    },
+                    {
+                        "name": "Research - Song Questionnaire",
+                        "ref": "Collectibles/Research & Records/Research/Song Questionnaire"
+                    },
+                    {
+                        "name": "Research - Synchronicity",
+                        "ref": "Collectibles/Research & Records/Research/Synchronicity"
+                    },
+                    {
+                        "name": "Research - Synchronicity Experiment",
+                        "ref": "Collectibles/Research & Records/Research/Synchronicity Experiment"
+                    },
+                    {
+                        "name": "Research - Technological Restrictions",
+                        "ref": "Collectibles/Research & Records/Research/Technological Restrictions"
+                    },
+                    {
+                        "name": "Research - The Formation",
+                        "ref": "Collectibles/Research & Records/Research/The Formation"
+                    },
+                    {
+                        "name": "Research - Threshold Utility",
+                        "ref": "Collectibles/Research & Records/Research/Threshold Utility"
+                    },
+                    {
+                        "name": "Research - Threshold Utility Counteressay",
+                        "ref": "Collectibles/Research & Records/Research/Threshold Utility Counteressay"
+                    },
+                    {
+                        "name": "Research - Thresholds",
+                        "ref": "Collectibles/Research & Records/Research/Thresholds"
+                    },
+                    {
+                        "name": "Research - Urban Legends",
+                        "ref": "Collectibles/Research & Records/Research/Urban Legends"
+                    },
+                    {
+                        "name": "Reports - Airplane Evaluation Order",
+                        "ref": "Collectibles/Research & Records/Reports/Airplane Evaluation Order"
+                    },
+                    {
+                        "name": "Reports - Altered Item Behavior Changes",
+                        "ref": "Collectibles/Research & Records/Reports/Altered Item Behavior Changes"
+                    },
+                    {
+                        "name": "Reports - America Overnight Results",
+                        "ref": "Collectibles/Research & Records/Reports/America Overnight Results"
+                    },
+                    {
+                        "name": "Reports - Astralnauts Information",
+                        "ref": "Collectibles/Research & Records/Reports/Astralnauts Information"
+                    },
+                    {
+                        "name": "Reports - AWE Rising Frequency",
+                        "ref": "Collectibles/Research & Records/Reports/AWE Rising Frequency"
+                    },
+                    {
+                        "name": "Reports - Bureau Expenditures",
+                        "ref": "Collectibles/Research & Records/Reports/Bureau Expenditures"
+                    },
+                    {
+                        "name": "Reports - Data Breach",
+                        "ref": "Collectibles/Research & Records/Reports/Data Breach"
+                    },
+                    {
+                        "name": "Reports - Director Faden Photograph",
+                        "ref": "Collectibles/Research & Records/Reports/Director Faden Photograph"
+                    },
+                    {
+                        "name": "Reports - Director Trench Photograph",
+                        "ref": "Collectibles/Research & Records/Reports/Director Trench Photograph"
+                    },
+                    {
+                        "name": "Reports - Dr. Tokui Investigation",
+                        "ref": "Collectibles/Research & Records/Reports/Dr. Tokui Investigation"
+                    },
+                    {
+                        "name": "Reports - Dylan Faden Observation",
+                        "ref": "Collectibles/Research & Records/Reports/Dylan Faden Observation"
+                    },
+                    {
+                        "name": "Reports - Dylan Faden Transcript",
+                        "ref": "Collectibles/Research & Records/Reports/Dylan Faden Transcript"
+                    },
+                    {
+                        "name": "Reports - Employee Incident",
+                        "ref": "Collectibles/Research & Records/Reports/Employee Incident"
+                    },
+                    {
+                        "name": "Reports - Hotline Security Log",
+                        "ref": "Collectibles/Research & Records/Reports/Hotline Security Log"
+                    },
+                    {
+                        "name": "Reports - Investigation Order",
+                        "ref": "Collectibles/Research & Records/Reports/Investigation Order"
+                    },
+                    {
+                        "name": "Reports - Jesse Faden Movement Tracking",
+                        "ref": "Collectibles/Research & Records/Reports/Jesse Faden Movement Tracking"
+                    },
+                    {
+                        "name": "Reports - Mold Autopsy",
+                        "ref": "Collectibles/Research & Records/Reports/Mold Autopsy"
+                    },
+                    {
+                        "name": "Reports - P6 Victim Autopsy",
+                        "ref": "Collectibles/Research & Records/Reports/P6 Victim Autopsy"
+                    },
+                    {
+                        "name": "Reports - Panopticon Methods Proposal",
+                        "ref": "Collectibles/Research & Records/Reports/Panopticon Methods Proposal"
+                    },
+                    {
+                        "name": "Reports - Popes Promotion",
+                        "ref": "Collectibles/Research & Records/Reports/Popes Promotion"
+                    },
+                    {
+                        "name": "Reports - Portrait of Director Zachariah Trench",
+                        "ref": "Collectibles/Research & Records/Reports/Portrait of Director Zachariah Trench"
+                    },
+                    {
+                        "name": "Reports - Quarry Incident",
+                        "ref": "Collectibles/Research & Records/Reports/Quarry Incident"
+                    },
+                    {
+                        "name": "Reports - Recording Chair Procedures",
+                        "ref": "Collectibles/Research & Records/Reports/Recording Chair Procedures"
+                    },
+                    {
+                        "name": "Reports - Salvadors ID",
+                        "ref": "Collectibles/Research & Records/Reports/Salvadors ID"
+                    },
+                    {
+                        "name": "Reports - Sealed Threshold Account",
+                        "ref": "Collectibles/Research & Records/Reports/Sealed Threshold Account"
+                    },
+                    {
+                        "name": "Reports - Television Proposal",
+                        "ref": "Collectibles/Research & Records/Reports/Television Proposal"
+                    },
+                    {
+                        "name": "Reports - Tennyson Report",
+                        "ref": "Collectibles/Research & Records/Reports/Tennyson Report"
+                    },
+                    {
+                        "name": "Reports - Threshold Kids Proposal",
+                        "ref": "Collectibles/Research & Records/Reports/Threshold Kids Proposal"
+                    },
+                    {
+                        "name": "Reports - Tommasis ID",
+                        "ref": "Collectibles/Research & Records/Reports/Tommasis ID"
+                    },
+                    {
+                        "name": "Reports - Willow AWE Shipping Manifest",
+                        "ref": "Collectibles/Research & Records/Reports/Willow AWE Shipping Manifest"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Agent",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Agent"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Barrier",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Barrier"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Charged",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Charged"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Cluster",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Cluster"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Demolition Expert",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Demolition Expert"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Distorted",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Distorted"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Elevated",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Elevated"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Guard",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Guard"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Ranger",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Ranger"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Sniper",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Sniper"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Trooper",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Trooper"
+                    },
+                    {
+                        "name": "Hiss Research - Hiss Warped",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Hiss Warped"
+                    },
+                    {
+                        "name": "Hiss Research - Initial Impressions",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Initial Impressions"
+                    },
+                    {
+                        "name": "Hiss Research - Linguistic Ability",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Linguistic Ability"
+                    },
+                    {
+                        "name": "Hiss Research - Speech Analysis",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Speech Analysis"
+                    },
+                    {
+                        "name": "Hiss Research - Timeline of Events",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Timeline of Events"
+                    },
+                    {
+                        "name": "Hiss Research - Variance in Alterations",
+                        "ref": "Collectibles/Research & Records/Hiss Research/Variance in Alterations"
+                    },
+                    {
+                        "name": "FBC Recordings - AI52 Testing",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/AI52 Testing"
+                    },
+                    {
+                        "name": "FBC Recordings - Astralnaut Liability",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Astralnaut Liability"
+                    },
+                    {
+                        "name": "FBC Recordings - Expedition Debrief",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Expedition Debrief"
+                    },
+                    {
+                        "name": "FBC Recordings - FBC Reminder - Altered Workspace",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/FBC Reminder - Altered Workspace"
+                    },
+                    {
+                        "name": "FBC Recordings - FBC Reminder - Building Shifts",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/FBC Reminder - Building Shifts"
+                    },
+                    {
+                        "name": "FBC Recordings - FBC Reminder - Pink Documents",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/FBC Reminder - Pink Documents"
+                    },
+                    {
+                        "name": "FBC Recordings - feirbeD rorriM",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/feirbeD rorriM"
+                    },
+                    {
+                        "name": "FBC Recordings - Furnace Research",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Furnace Research"
+                    },
+                    {
+                        "name": "FBC Recordings - Medical Examination",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Medical Examination"
+                    },
+                    {
+                        "name": "FBC Recordings - Mirror Debrief",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Mirror Debrief"
+                    },
+                    {
+                        "name": "FBC Recordings - Quarry Site Beta Log 1",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Quarry Site Beta Log 1"
+                    },
+                    {
+                        "name": "FBC Recordings - Quarry Site Beta Log 2",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Quarry Site Beta Log 2"
+                    },
+                    {
+                        "name": "FBC Recordings - Salvador - Security Order",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Salvador - Security Order"
+                    },
+                    {
+                        "name": "FBC Recordings - Threshold Log 1",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Threshold Log 1"
+                    },
+                    {
+                        "name": "FBC Recordings - Threshold Log 2",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Threshold Log 2"
+                    },
+                    {
+                        "name": "FBC Recordings - Threshold Log 3",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Threshold Log 3"
+                    },
+                    {
+                        "name": "FBC Recordings - Tommasi - AWE Report",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Tommasi - AWE Report"
+                    },
+                    {
+                        "name": "Darling Presentations - Altered Items (Interview)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Altered Items (Interview)"
+                    },
+                    {
+                        "name": "Darling Presentations - Altered World Events",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Altered World Events"
+                    },
+                    {
+                        "name": "Darling Presentations - Astral Plane (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Astral Plane (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Astral Spike (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Astral Spike (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Black Rock (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Black Rock (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Dylan Faden",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Dylan Faden"
+                    },
+                    {
+                        "name": "Darling Presentations - Dyna-mite",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Dyna-mite"
+                    },
+                    {
+                        "name": "Darling Presentations - Final Message",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Final Message"
+                    },
+                    {
+                        "name": "Darling Presentations - Floppy Disk (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Floppy Disk (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Hedron",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Hedron"
+                    },
+                    {
+                        "name": "Darling Presentations - Hotline (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Hotline (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - HRAs",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/HRAs"
+                    },
+                    {
+                        "name": "Darling Presentations - Large Scale HRA",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Large Scale HRA"
+                    },
+                    {
+                        "name": "Darling Presentations - Objects of Power (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Objects of Power (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Oceanview Motel and Casino",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Oceanview Motel and Casino"
+                    },
+                    {
+                        "name": "Darling Presentations - Ordinary",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Ordinary"
+                    },
+                    {
+                        "name": "Darling Presentations - Research Sector (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Research Sector (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Resonance",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Resonance"
+                    },
+                    {
+                        "name": "Darling Presentations - Slidescape-36 (Presentation)",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Slidescape-36 (Presentation)"
+                    },
+                    {
+                        "name": "Darling Presentations - Spare Footage",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Spare Footage"
+                    },
+                    {
+                        "name": "Darling Presentations - The Oldest House",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/The Oldest House"
+                    },
+                    {
+                        "name": "Threshold Kids - Altered Items (Threshold Kids)",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/Altered Items (Threshold Kids)"
+                    },
+                    {
+                        "name": "Threshold Kids - Astral Plane (Threshold Kids)",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/Astral Plane (Threshold Kids)"
+                    },
+                    {
+                        "name": "Threshold Kids - Keeping Secrets",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/Keeping Secrets"
+                    },
+                    {
+                        "name": "Threshold Kids - Missing Momma",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/Missing Momma"
+                    },
+                    {
+                        "name": "Threshold Kids - When Youre Caught in a House Shift",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/When Youre Caught in a House Shift"
+                    },
+                    {
+                        "name": "Threshold Kids - You and Your Special Powers",
+                        "ref": "Collectibles/Multimedia/Threshold Kids/You and Your Special Powers"
+                    },
+                    {
+                        "name": "America Overnight - America Overnight Ep. 349",
+                        "ref": "Collectibles/Multimedia/America Overnight/America Overnight Ep. 349"
+                    },
+                    {
+                        "name": "America Overnight - America Overnight Ep. 352",
+                        "ref": "Collectibles/Multimedia/America Overnight/America Overnight Ep. 352"
+                    },
+                    {
+                        "name": "America Overnight - America Overnight Ep. 356",
+                        "ref": "Collectibles/Multimedia/America Overnight/America Overnight Ep. 356"
+                    },
+                    {
+                        "name": "America Overnight - America Overnight Ep. 359",
+                        "ref": "Collectibles/Multimedia/America Overnight/America Overnight Ep. 359"
+                    },
+                    {
+                        "name": "Interviews - Dylan Evaluation",
+                        "ref": "Collectibles/Multimedia/Interviews/Dylan Evaluation"
+                    },
+                    {
+                        "name": "Interviews - Dylan Questioning",
+                        "ref": "Collectibles/Multimedia/Interviews/Dylan Questioning"
+                    },
+                    {
+                        "name": "Interviews - Jesse Therapy - Polaris",
+                        "ref": "Collectibles/Multimedia/Interviews/Jesse Therapy - Polaris"
+                    },
+                    {
+                        "name": "Interviews - Jesse Therapy - Slide Projector",
+                        "ref": "Collectibles/Multimedia/Interviews/Jesse Therapy - Slide Projector"
+                    },
+                    {
+                        "name": "Music - Old Gods of Asgard - Take Control",
+                        "ref": "Collectibles/Multimedia/Music/Old Gods of Asgard - Take Control"
+                    },
+                    {
+                        "name": "Music - Poets of the Fall - My Dark Disquiet",
+                        "ref": "Collectibles/Multimedia/Music/Poets of the Fall - My Dark Disquiet"
+                    },
+                    {
+                        "name": "Music - Sankarin Tango (Heros Tango)",
+                        "ref": "Collectibles/Multimedia/Music/Sankarin Tango (Heros Tango)"
+                    },
+                    {
+                        "name": "Altered World Events - Albany Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Albany Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Albany Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Albany Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Bright Falls Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Bright Falls Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Bright Falls Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Bright Falls Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Butte Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Butte Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Butte Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Butte Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Emergency Call Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Emergency Call Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Emergency Call Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Emergency Call Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Havana Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Havana Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Havana Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Havana Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Ordinary Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Ordinary Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Ordinary Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Ordinary Supplement"
+                    },
+                    {
+                        "name": "Altered World Events - Sterling Summary",
+                        "ref": "Collectibles/Case Files/Altered World Events/Sterling Summary"
+                    },
+                    {
+                        "name": "Altered World Events - Sterling Supplement",
+                        "ref": "Collectibles/Case Files/Altered World Events/Sterling Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Anchor Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Anchor Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Anchor Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Anchor Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Balloon Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Balloon Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Balloon Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Balloon Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Fan Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Fan Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Fan Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Fan Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Globe Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Globe Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Globe Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Globe Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Hammer Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Hammer Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Hammer Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Hammer Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Hand Chair Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Hand Chair Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Letters Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Letters Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Mannequin Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Mannequin Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Mannequin Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Mannequin Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Mirror Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Mirror Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Mirror Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Mirror Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Paper Lantern Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Paper Lantern Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Paper Lantern Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Paper Lantern Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Picnic Basket Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Picnic Basket Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Picnic Basket Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Picnic Basket Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Pink Flamingo Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Pink Flamingo Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Pink Flamingo Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Pink Flamingo Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Plastic Tree Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Plastic Tree Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Plastic Tree Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Plastic Tree Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Post Box Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Post Box Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Post Box Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Post Box Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Pram Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Pram Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Pram Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Pram Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Refrigerator Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Refrigerator Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Refrigerator Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Refrigerator Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Rubber Duck Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Rubber Duck Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Rubber Duck Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Rubber Duck Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Surfboard Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Surfboard Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Surfboard Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Surfboard Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Swan Boat Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Swan Boat Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Thermos Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Thermos Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Traffic Light Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Traffic Light Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Typewritten Page Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Typewritten Page Procedures"
+                    },
+                    {
+                        "name": "Altered Items - Typewritten Page Supplement",
+                        "ref": "Collectibles/Case Files/Altered Items/Typewritten Page Supplement"
+                    },
+                    {
+                        "name": "Altered Items - Water Cooler Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Water Cooler Procedures"
+                    },
+                    {
+                        "name": "Objects of Power - Ashtray and Cigarette",
+                        "ref": "Collectibles/Case Files/Objects of Power/Ashtray and Cigarette"
+                    },
+                    {
+                        "name": "Objects of Power - Benicoff TV",
+                        "ref": "Collectibles/Case Files/Objects of Power/Benicoff TV"
+                    },
+                    {
+                        "name": "Objects of Power - Floppy Disk (Case File)",
+                        "ref": "Collectibles/Case Files/Objects of Power/Floppy Disk (Case File)"
+                    },
+                    {
+                        "name": "Objects of Power - Home Safe",
+                        "ref": "Collectibles/Case Files/Objects of Power/Home Safe"
+                    },
+                    {
+                        "name": "Objects of Power - Hotline (Case File)",
+                        "ref": "Collectibles/Case Files/Objects of Power/Hotline (Case File)"
+                    },
+                    {
+                        "name": "Objects of Power - Jukebox",
+                        "ref": "Collectibles/Case Files/Objects of Power/Jukebox"
+                    },
+                    {
+                        "name": "Objects of Power - Merry-Go-Round Horse",
+                        "ref": "Collectibles/Case Files/Objects of Power/Merry-Go-Round Horse"
+                    },
+                    {
+                        "name": "Objects of Power - Service Weapon",
+                        "ref": "Collectibles/Case Files/Objects of Power/Service Weapon"
+                    },
+                    {
+                        "name": "Objects of Power - Slide Projector",
+                        "ref": "Collectibles/Case Files/Objects of Power/Slide Projector"
+                    },
+                    {
+                        "name": "Objects of Power - X-Ray Light Box",
+                        "ref": "Collectibles/Case Files/Objects of Power/X-Ray Light Box"
+                    },
+                    {
+                        "name": "Trench - Ashtray Maze",
+                        "ref": "Collectibles/Hotline/Trench/Ashtray Maze"
+                    },
+                    {
+                        "name": "Trench - Control Points (Trench)",
+                        "ref": "Collectibles/Hotline/Trench/Control Points (Trench)"
+                    },
+                    {
+                        "name": "Trench - Endless Grind",
+                        "ref": "Collectibles/Hotline/Trench/Endless Grind"
+                    },
+                    {
+                        "name": "Trench - Hotline (Hotline)",
+                        "ref": "Collectibles/Hotline/Trench/Hotline (Hotline)"
+                    },
+                    {
+                        "name": "Trench - Internal Lockdown",
+                        "ref": "Collectibles/Hotline/Trench/Internal Lockdown"
+                    },
+                    {
+                        "name": "Trench - Management Team",
+                        "ref": "Collectibles/Hotline/Trench/Management Team"
+                    },
+                    {
+                        "name": "Trench - Northmoor",
+                        "ref": "Collectibles/Hotline/Trench/Northmoor"
+                    },
+                    {
+                        "name": "Trench - Oceanview Motel (Hotline)",
+                        "ref": "Collectibles/Hotline/Trench/Oceanview Motel (Hotline)"
+                    },
+                    {
+                        "name": "Trench - Panopticon",
+                        "ref": "Collectibles/Hotline/Trench/Panopticon"
+                    },
+                    {
+                        "name": "Trench - Prime Candidates",
+                        "ref": "Collectibles/Hotline/Trench/Prime Candidates"
+                    },
+                    {
+                        "name": "Trench - Slidescape-36 (Hotline)",
+                        "ref": "Collectibles/Hotline/Trench/Slidescape-36 (Hotline)"
+                    },
+                    {
+                        "name": "Trench - The Coming Storm",
+                        "ref": "Collectibles/Hotline/Trench/The Coming Storm"
+                    },
+                    {
+                        "name": "Board - Astral Constructs",
+                        "ref": "Collectibles/Hotline/Board/Astral Constructs"
+                    },
+                    {
+                        "name": "Board - Board Countermeasures",
+                        "ref": "Collectibles/Hotline/Board/Board Countermeasures"
+                    },
+                    {
+                        "name": "Board - Control Points (Board)",
+                        "ref": "Collectibles/Hotline/Board/Control Points (Board)"
+                    },
+                    {
+                        "name": "Board - Dissent",
+                        "ref": "Collectibles/Hotline/Board/Dissent"
+                    },
+                    {
+                        "name": "Board - Former",
+                        "ref": "Collectibles/Hotline/Board/Former"
+                    },
+                    {
+                        "name": "Board - Foundation (Hotline)",
+                        "ref": "Collectibles/Hotline/Board/Foundation (Hotline)"
+                    },
+                    {
+                        "name": "Board - Objects of Power (Hotline)",
+                        "ref": "Collectibles/Hotline/Board/Objects of Power (Hotline)"
+                    },
+                    {
+                        "name": "Board - The Directorship",
+                        "ref": "Collectibles/Hotline/Board/The Directorship"
+                    },
+                    {
+                        "name": "Board - The Future",
+                        "ref": "Collectibles/Hotline/Board/The Future"
+                    },
+                    {
+                        "name": "Board - The Hiss",
+                        "ref": "Collectibles/Hotline/Board/The Hiss"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1863,
+                        "y": 1476,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Containment Sector",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Containment Sector - Archives (Location)",
+                        "ref": "Containment Sector/Archives (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Central Containment (Location)",
+                        "ref": "Containment Sector/Central Containment (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Firebreak (Location)",
+                        "ref": "Containment Sector/Firebreak (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Logistics (Control Point)",
+                        "ref": "Containment Sector/Logistics (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Logistics (Location)",
+                        "ref": "Containment Sector/Logistics (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Medical Wing (Location)",
+                        "ref": "Containment Sector/Medical Wing (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Ordinary AWE (Control Point)",
+                        "ref": "Containment Sector/Ordinary AWE (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Ordinary AWE (Location)",
+                        "ref": "Containment Sector/Ordinary AWE (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Ordinary Dump (Location)",
+                        "ref": "Containment Sector/Ordinary Dump (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - P6 Cell (Location)",
+                        "ref": "Containment Sector/P6 Cell (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Panopticon (Control Point)",
+                        "ref": "Containment Sector/Panopticon (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Panopticon (Location)",
+                        "ref": "Containment Sector/Panopticon (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Panopticon Entrance (Location)",
+                        "ref": "Containment Sector/Panopticon Entrance (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Prime Candidate Program (Location)",
+                        "ref": "Containment Sector/Prime Candidate Program (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Atrium (Control Point)",
+                        "ref": "Containment Sector/Sealed Threshold Atrium (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Checkpoint (Location)",
+                        "ref": "Containment Sector/Sealed Threshold Checkpoint (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Corridor (Control Point)",
+                        "ref": "Containment Sector/Sealed Threshold Corridor (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Corridor (Location)",
+                        "ref": "Containment Sector/Sealed Threshold Corridor (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Entrance (Control Point)",
+                        "ref": "Containment Sector/Sealed Threshold Entrance (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Sealed Threshold Hall (Location)",
+                        "ref": "Containment Sector/Sealed Threshold Hall (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Security (Location)",
+                        "ref": "Containment Sector/Security (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Sterling AWE (Location)",
+                        "ref": "Containment Sector/Sterling AWE (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Transit Corridor (Control Point)",
+                        "ref": "Containment Sector/Transit Corridor (Control Point)"
+                    },
+                    {
+                        "name": "Containment Sector - Transit Corridor North (Location)",
+                        "ref": "Containment Sector/Transit Corridor North (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Transit Corridor South (Location)",
+                        "ref": "Containment Sector/Transit Corridor South (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Turntable (Location)",
+                        "ref": "Containment Sector/Turntable (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Twisted Passage (Location)",
+                        "ref": "Containment Sector/Twisted Passage (Location)"
+                    },
+                    {
+                        "name": "Containment Sector - Upper Panopticon (Control Point)",
+                        "ref": "Containment Sector/Upper Panopticon (Control Point)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 378,
+                        "y": 767,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Executive Sector",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Executive Sector - Board Room (Location)",
+                        "ref": "Executive Sector/Board Room (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Cafeteria (Location)",
+                        "ref": "Executive Sector/Cafeteria (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Central Executive (Control Point)",
+                        "ref": "Executive Sector/Central Executive (Control Point)"
+                    },
+                    {
+                        "name": "Executive Sector - Central Executive (Location)",
+                        "ref": "Executive Sector/Central Executive (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Communications Dept. (Location)",
+                        "ref": "Executive Sector/Communications Dept. (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Dead Letters (Control Point)",
+                        "ref": "Executive Sector/Dead Letters (Control Point)"
+                    },
+                    {
+                        "name": "Executive Sector - Dead Letters (Location)",
+                        "ref": "Executive Sector/Dead Letters (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Directors Office (Location)",
+                        "ref": "Executive Sector/Directors Office (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Executive Affairs (Location)",
+                        "ref": "Executive Sector/Executive Affairs (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Hotline Chamber (Location)",
+                        "ref": "Executive Sector/Hotline Chamber (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Mail Room (Control Point)",
+                        "ref": "Executive Sector/Mail Room (Control Point)"
+                    },
+                    {
+                        "name": "Executive Sector - Mail Room (Location)",
+                        "ref": "Executive Sector/Mail Room (Location)"
+                    },
+                    {
+                        "name": "Executive Sector - Pneumatics (Location)",
+                        "ref": "Executive Sector/Pneumatics (Location)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2005,
+                        "y": 1250,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Maintenance Sector",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Maintenance Sector - Access Corridor (Location)",
+                        "ref": "Maintenance Sector/Access Corridor (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Atlas Chamber (Control Point)",
+                        "ref": "Maintenance Sector/Atlas Chamber (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Atlas Chamber (Location)",
+                        "ref": "Maintenance Sector/Atlas Chamber (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Black Rock Lab (Location)",
+                        "ref": "Maintenance Sector/Black Rock Lab (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Black Rock Processing (Location)",
+                        "ref": "Maintenance Sector/Black Rock Processing (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Black Rock Quarry (Control Point)",
+                        "ref": "Maintenance Sector/Black Rock Quarry (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Black Rock Quarry (Location)",
+                        "ref": "Maintenance Sector/Black Rock Quarry (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Central Maintenance (Location)",
+                        "ref": "Maintenance Sector/Central Maintenance (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Field Training (Location)",
+                        "ref": "Maintenance Sector/Field Training (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Foundation (Control Point)",
+                        "ref": "Maintenance Sector/Foundation (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Furnace Chamber (Location)",
+                        "ref": "Maintenance Sector/Furnace Chamber (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Janitors Office (Location)",
+                        "ref": "Maintenance Sector/Janitors Office (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Control Room (Control Point)",
+                        "ref": "Maintenance Sector/NSC Control Room (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Control Room (Location)",
+                        "ref": "Maintenance Sector/NSC Control Room (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Coolant Pumps (Location)",
+                        "ref": "Maintenance Sector/NSC Coolant Pumps (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Coolant Pumps Entrance (Control Point)",
+                        "ref": "Maintenance Sector/NSC Coolant Pumps Entrance (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Coolant Pumps Upper Level (Control Point)",
+                        "ref": "Maintenance Sector/NSC Coolant Pumps Upper Level (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Energy Converters (Location)",
+                        "ref": "Maintenance Sector/NSC Energy Converters (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Energy Converters Entrance (Control Point)",
+                        "ref": "Maintenance Sector/NSC Energy Converters Entrance (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Power Plant (Control Point)",
+                        "ref": "Maintenance Sector/NSC Power Plant (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Power Plant (Location)",
+                        "ref": "Maintenance Sector/NSC Power Plant (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - NSC Power Plant Upper Level (Control Point)",
+                        "ref": "Maintenance Sector/NSC Power Plant Upper Level (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Pipeworks (Location)",
+                        "ref": "Maintenance Sector/Pipeworks (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Pump Station (Location)",
+                        "ref": "Maintenance Sector/Pump Station (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Quarry Entrance (Control Point)",
+                        "ref": "Maintenance Sector/Quarry Entrance (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Restricted Area (Location)",
+                        "ref": "Maintenance Sector/Restricted Area (Location)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Ventilation (Control Point)",
+                        "ref": "Maintenance Sector/Ventilation (Control Point)"
+                    },
+                    {
+                        "name": "Maintenance Sector - Ventilation (Location)",
+                        "ref": "Maintenance Sector/Ventilation (Location)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 136,
+                        "y": 1526,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Oceanview Motel (Location)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 356,
+                        "y": 216,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Research Sector",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Research Sector - Active Threshold (Control Point)",
+                        "ref": "Research Sector/Active Threshold (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Active Threshold Sublevel (Control Point)",
+                        "ref": "Research Sector/Active Threshold Sublevel (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Ashtray Maze (Control Point)",
+                        "ref": "Research Sector/Ashtray Maze (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Ashtray Maze Entrance (Location)",
+                        "ref": "Research Sector/Ashtray Maze Entrance (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Ashtray Maze Blocked (Location)",
+                        "ref": "Research Sector/Ashtray Maze Blocked (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Ashtray Maze Inside (Location)",
+                        "ref": "Research Sector/Ashtray Maze Inside (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Astral Exhibition (Control Point)",
+                        "ref": "Research Sector/Astral Exhibition (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Astral Exhibition (Location)",
+                        "ref": "Research Sector/Astral Exhibition (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Central Research (Control Point)",
+                        "ref": "Research Sector/Central Research (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Central Research (Location)",
+                        "ref": "Research Sector/Central Research (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Dimensional Research (Control Point)",
+                        "ref": "Research Sector/Dimensional Research (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Dimensional Research (Location)",
+                        "ref": "Research Sector/Dimensional Research (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Extrasensory Lab (Location)",
+                        "ref": "Research Sector/Extrasensory Lab (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Firebreak after Ashtray Maze (Location)",
+                        "ref": "Research Sector/Firebreak after Ashtray Maze (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Firebreak before Ashtray Maze (Location)",
+                        "ref": "Research Sector/Firebreak before Ashtray Maze (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Hedron Chamber (Location)",
+                        "ref": "Research Sector/Hedron Chamber (Location)"
+                    },
+                    {
+                        "name": "Research Sector - HRA Lab (Location)",
+                        "ref": "Research Sector/HRA Lab (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Hypnosis Lab (Location)",
+                        "ref": "Research Sector/Hypnosis Lab (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Luck & Probability (Location)",
+                        "ref": "Research Sector/Luck & Probability (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Mirror Testing (Control Point)",
+                        "ref": "Research Sector/Mirror Testing (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Parakinesiology (Location)",
+                        "ref": "Research Sector/Parakinesiology (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Parapsychology (Control Point)",
+                        "ref": "Research Sector/Parapsychology (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Parapsychology (Location)",
+                        "ref": "Research Sector/Parapsychology (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Parapsychology Elevator (Location)",
+                        "ref": "Research Sector/Parapsychology Elevator (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Protective Studies (Location)",
+                        "ref": "Research Sector/Protective Studies (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Ritual Division (Control Point)",
+                        "ref": "Research Sector/Ritual Division (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - Ritual Division (Location)",
+                        "ref": "Research Sector/Ritual Division (Location)"
+                    },
+                    {
+                        "name": "Research Sector - Sector Elevator Hallway (Research)",
+                        "ref": "Research Sector/Sector Elevator Hallway (Research)"
+                    },
+                    {
+                        "name": "Research Sector - Synchronicity Lab (Location)",
+                        "ref": "Research Sector/Synchronicity Lab (Location)"
+                    },
+                    {
+                        "name": "Research Sector - The Mirror (Location)",
+                        "ref": "Research Sector/The Mirror (Location)"
+                    },
+                    {
+                        "name": "Research Sector - The Pit (Control Point)",
+                        "ref": "Research Sector/The Pit (Control Point)"
+                    },
+                    {
+                        "name": "Research Sector - The Pit (Location)",
+                        "ref": "Research Sector/The Pit (Location)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1623,
+                        "y": 98,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sectors",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sectors - Astral Plane (Sector)",
+                        "ref": "Sectors/Astral Plane (Sector)"
+                    },
+                    {
+                        "name": "Sectors - Containment Sector",
+                        "ref": "Sectors/Containment Sector"
+                    },
+                    {
+                        "name": "Sectors - Executive Sector",
+                        "ref": "Sectors/Executive Sector"
+                    },
+                    {
+                        "name": "Sectors - Maintenance Sector",
+                        "ref": "Sectors/Maintenance Sector"
+                    },
+                    {
+                        "name": "Sectors - Research Sector",
+                        "ref": "Sectors/Research Sector"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2396,
+                        "y": 2400,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Side Missions",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "What A Mess - Burn The Trash (Mission)",
+                        "ref": "Side Missions/What A Mess/Burn The Trash (Mission)"
+                    },
+                    {
+                        "name": "What A Mess - Clear The Clog (Mission)",
+                        "ref": "Side Missions/What A Mess/Clear The Clog (Mission)"
+                    },
+                    {
+                        "name": "What A Mess - Clear The Mold (Mission)",
+                        "ref": "Side Missions/What A Mess/Clear The Mold (Mission)"
+                    },
+                    {
+                        "name": "What A Mess - Even More Mold (Mission)",
+                        "ref": "Side Missions/What A Mess/Even More Mold (Mission)"
+                    },
+                    {
+                        "name": "What A Mess - Take A Break (Mission)",
+                        "ref": "Side Missions/What A Mess/Take A Break (Mission)"
+                    },
+                    {
+                        "name": "What A Mess - Talk To The Plants (Mission)",
+                        "ref": "Side Missions/What A Mess/Talk To The Plants (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - A Captive Audience (Mission)",
+                        "ref": "Side Missions/A Captive Audience (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - A Good Defense (Mission)",
+                        "ref": "Side Missions/A Good Defense (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - A Matter Of Time (Mission)",
+                        "ref": "Side Missions/A Matter Of Time (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - A Merry Chase (Mission)",
+                        "ref": "Side Missions/A Merry Chase (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Dr. Yoshimi Tokuis Guided Imagery Experience (Mission)",
+                        "ref": "Side Missions/Dr. Yoshimi Tokuis Guided Imagery Experience (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Fridge Duty (Mission)",
+                        "ref": "Side Missions/Fridge Duty (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Langstons Runaways (Mission)",
+                        "ref": "Side Missions/Langstons Runaways (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Mold Removal (Mission)",
+                        "ref": "Side Missions/Mold Removal (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Mr. Tommasi (Mission)",
+                        "ref": "Side Missions/Mr. Tommasi (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Old Friends (Mission)",
+                        "ref": "Side Missions/Old Friends (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Old Growth (Mission)",
+                        "ref": "Side Missions/Old Growth (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Put A Record On (Mission)",
+                        "ref": "Side Missions/Put A Record On (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - Self-Reflection (Mission)",
+                        "ref": "Side Missions/Self-Reflection (Mission)"
+                    },
+                    {
+                        "name": "Side Missions - The Enemy Within (Mission)",
+                        "ref": "Side Missions/The Enemy Within (Mission)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 729,
+                        "y": 950,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Story Missions",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Story Missions - Directorial Override (Mission)",
+                        "ref": "Story Missions/Directorial Override (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Finnish Tango (Mission)",
+                        "ref": "Story Missions/Finnish Tango (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - My Brothers Keeper (Mission)",
+                        "ref": "Story Missions/My Brothers Keeper (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Old Boys Club (Mission)",
+                        "ref": "Story Missions/Old Boys Club (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Polaris (Mission)",
+                        "ref": "Story Missions/Polaris (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Take Control (Mission)",
+                        "ref": "Story Missions/Take Control (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - The Face Of The Enemy (Mission)",
+                        "ref": "Story Missions/The Face Of The Enemy (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Threshold (Mission)",
+                        "ref": "Story Missions/Threshold (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Unknown Caller (Mission)",
+                        "ref": "Story Missions/Unknown Caller (Mission)"
+                    },
+                    {
+                        "name": "Story Missions - Welcome To The Oldest House (Mission)",
+                        "ref": "Story Missions/Welcome To The Oldest House (Mission)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1038,
+                        "y": 1685,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

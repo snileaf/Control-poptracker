@@ -3,7 +3,7 @@
     "game_name": "Control",
     "package_version": "0.0.1",
     "package_uid": "control_ap",
-    "author": "builder_script",
+    "author": "Snileaf, builder_script, Control Archipelago Community",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",

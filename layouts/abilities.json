@@ -1,0 +1,105 @@
+{
+  "abilities_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 48,
+            "item_width": 48,
+            "rows": [
+              [
+                "health1",
+                "energy1",
+                "melee1",
+                "launch1",
+                "update",
+                "shield1",
+                "update",
+                "seize1",
+                "update",
+                "levitate1",
+                "update"
+              ],
+              [
+                "health2",
+                "energy2",
+                "melee2",
+                "launch2",
+                "launchexplosives",
+                "shield2",
+                "shieldbarrage",
+                "seize2",
+                "update",
+                "levitate2",
+                "groundslam"
+              ],
+              [
+                "health3",
+                "energy3",
+                "melee3",
+                "launch3",
+                "launchenemies1",
+                "shield3",
+                "shieldbarrage1",
+                "seize3",
+                "seizeadditionalenemy",
+                "levitate3",
+                "groundslam1"
+              ],
+              [
+                "health4",
+                "energy4",
+                "melee4",
+                "launch4",
+                "launchenemies2",
+                "shield4",
+                "shieldrush",
+                "seize4",
+                "update",
+                "levitate4",
+                "groundslam2"
+              ],
+              [
+                "health5",
+                "energy5",
+                "melee5",
+                "launch5",
+                "launchstrength",
+                "shield5",
+                "shieldrush1",
+                "seize5",
+                "seizestrength",
+                "levitate5",
+                "groundslam3"
+              ],
+              [
+                "health6",
+                "energy6",
+                "melee6",
+                "launch6",
+                "multi-launch",
+                "shield6",
+                "shieldenergyrecovery",
+                "seize6",
+                "update",
+                "levitate6",
+                "groundslam4"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

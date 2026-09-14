@@ -1,0 +1,52 @@
+{
+	"weapon_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"item_margin": "2, 2",
+						"h_alignment": "left",
+						"item_h_alignment": "center",
+						"item_v_alignment": "center",
+						"item_height": 48,
+						"item_width": 48,
+						"rows": [
+							[
+								"grip-level1",
+								"grip-level2",
+								"grip-level3"
+							],
+							[
+								"shatter-level1",
+								"shatter-level2",
+								"shatter-level3"
+							],
+							[
+								"spin-level1",
+								"spin-level2",
+								"spin-level3"
+							],
+							[
+								"pierce-level1",
+								"pierce-level2",
+								"pierce-level3"
+							],
+							[
+								"charge-level1",
+								"charge-level2",
+								"charge-level3"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}

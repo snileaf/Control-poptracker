@@ -1,0 +1,192 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Astral Plane (Location)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Astral Plane (Location)"
+                    ]
+                }
+            },
+            {
+                "title": "Collectibles",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Collectibles"
+                    ]
+                }
+            },
+            {
+                "title": "Containment Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Containment Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Executive Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Executive Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Maintenance Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Maintenance Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Oceanview Motel (Location)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Oceanview Motel (Location)"
+                    ]
+                }
+            },
+            {
+                "title": "Research Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Research Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Sectors",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sectors"
+                    ]
+                }
+            },
+            {
+                "title": "Side Missions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Side Missions"
+                    ]
+                }
+            },
+            {
+                "title": "Story Missions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Story Missions"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Astral Plane (Location)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Astral Plane (Location)"
+                    ]
+                }
+            },
+            {
+                "title": "Collectibles",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Collectibles"
+                    ]
+                }
+            },
+            {
+                "title": "Containment Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Containment Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Executive Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Executive Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Maintenance Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Maintenance Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Oceanview Motel (Location)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Oceanview Motel (Location)"
+                    ]
+                }
+            },
+            {
+                "title": "Research Sector",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Research Sector"
+                    ]
+                }
+            },
+            {
+                "title": "Sectors",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sectors"
+                    ]
+                }
+            },
+            {
+                "title": "Side Missions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Side Missions"
+                    ]
+                }
+            },
+            {
+                "title": "Story Missions",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Story Missions"
+                    ]
+                }
+            }
+        ]
+    }
+}

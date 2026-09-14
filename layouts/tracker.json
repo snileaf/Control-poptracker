@@ -1,0 +1,55 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                  "content": [
+                    {
+                      "type": "group",
+                      "header": "Abilities",
+                      "dock": "top",
+                      "content": {
+                        "type": "layout",
+                        "key": "abilities_grid"
+                      }
+                    },
+                    {
+                      "type": "group",
+                      "header": "Service Weapon",
+                      "dock": "top",
+                      "content": {
+                        "type": "layout",
+                        "key": "weapon_grid"
+                      }
+                    },
+                    {
+                      "type": "group",
+                      "header": "Old House Access",
+                      "dock": "top",
+                      "content": {
+                        "type": "layout",
+                        "key": "access_grid"
+                      }
+                    }
+                  ]
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "tabbed_maps_vertical"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
