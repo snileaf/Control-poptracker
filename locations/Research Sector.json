@@ -1,213 +1,845 @@
 [
-    {
-        "name": "Research Sector",
+  {
+    "name": "Research Sector",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "researchsector"
+    ],
+    "children": [
+      {
+        "name": "Active Threshold (Control Point)",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+          "clearancelevel5,$cleared|@Threshold (Mission)"
         ],
         "sections": [
-            {
-                "name": "Active Threshold (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Active Threshold Sublevel (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ashtray Maze (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ashtray Maze Entrance (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ashtray Maze Blocked (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ashtray Maze Inside (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Astral Exhibition (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Astral Exhibition (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Central Research (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Central Research (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Dimensional Research (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Dimensional Research (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Extrasensory Lab (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Firebreak after Ashtray Maze (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Firebreak before Ashtray Maze (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Hedron Chamber (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "HRA Lab (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Hypnosis Lab (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Luck & Probability (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Mirror Testing (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Parakinesiology (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Parapsychology (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Parapsychology (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Parapsychology Elevator (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Protective Studies (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ritual Division (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Ritual Division (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Sector Elevator Hallway (Research)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Synchronicity Lab (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "The Mirror (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "The Pit (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "The Pit (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
         ],
         "map_locations": [
-            {
-                "map": "Research Sector",
-                "x": 950,
-                "y": 975,
-                "size": 6
-            }
+          {
+            "map": "Research Sector",
+            "x": 784,
+            "y": 803,
+            "size": 24,
+            "shape": "diamond"
+          }
         ]
-    }
+      },
+      {
+        "name": "Active Threshold Sublevel (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel5,$cleared|@Threshold (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 745,
+            "y": 605,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Ashtray Maze (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 1391,
+            "y": 1439,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Ashtray Maze Entrance (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 1391,
+            "y": 1397,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Ashtray Maze Blocked (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 1523,
+            "y": 1416,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Ashtray Maze Inside (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 2180,
+            "y": 1531,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Astral Exhibition (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 706,
+            "y": 806,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Astral Exhibition (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 795,
+            "y": 470,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Central Research (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 686,
+            "y": 1256,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Central Research (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 824,
+            "y": 1336,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Dimensional Research (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 2830,
+            "y": 931,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Dimensional Research (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 2831,
+            "y": 1064,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Extrasensory Lab (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 649,
+            "y": 643,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Firebreak after Ashtray Maze (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 2831,
+            "y": 1345,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Firebreak before Ashtray Maze (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 1191,
+            "y": 1424,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Hedron Chamber (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 2829,
+            "y": 379,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "HRA Lab (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 826,
+            "y": 1664,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Hypnosis Lab (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 1084,
+            "y": 682,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Luck & Probability (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 600,
+            "y": 1241,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Mirror Testing (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 110,
+            "y": 1377,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Parakinesiology (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 655,
+            "y": 923,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Parapsychology (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 931,
+            "y": 887,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Parapsychology (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 796,
+            "y": 777,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Parapsychology Elevator (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 987,
+            "y": 992,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Protective Studies (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 652,
+            "y": 1819,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Ritual Division (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 546,
+            "y": 1657,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Ritual Division (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 499,
+            "y": 1514,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Sector Elevator Hallway (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 694,
+            "y": 1577,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Synchronicity Lab (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 251,
+            "y": 1457,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "The Mirror (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel6"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 15,
+            "y": 1380,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "The Pit (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 765,
+            "y": 972,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "The Pit (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$cleared|@Unknown Caller (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Research Sector",
+            "x": 761,
+            "y": 1109,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      }
+    ]
+  }
 ]

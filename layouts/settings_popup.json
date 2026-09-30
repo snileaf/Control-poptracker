@@ -1,20 +1,27 @@
 {
-    "settings_popup": {
-        "type": "array",
-        "margin": 5,
+  "settings_popup": {
+    "type": "array",
+    "margin": 5,
+    "content": [
+      {
+        "type": "group",
+        "header": "Autofill Settings",
+        "header_background": "#3e4b57",
         "content": [
-            {
-                "type": "group",
-                "header": "Autofill Settings",
-                "header_background": "#3e4b57",
-                "content": [
-                    {
-                        "type": "item",
-                        "margin": "5,1,5,5",
-                        "item": "autofill_settings"
-                    }
-                ]
-            }
+          {
+            "type": "itemgrid",
+            "margin": "2,2",
+            "item_size": 48,
+            "rows": [
+              [
+                "sector_setting",
+                "clearance_setting",
+                "progressive_clearance_setting"
+              ]
+            ]
+          }
         ]
-    }
+      }
+    ]
+  }
 }

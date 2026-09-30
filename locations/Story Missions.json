@@ -7,74 +7,266 @@
         "access_rules": [
             " "
         ],
-        "sections": [
+        "children": [
             {
                 "name": "Directorial Override (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+              "access_rules": [
+                "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
+              ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1243,
+                        "y": 441,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Finnish Tango (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+              "access_rules": [
+                "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
+              ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1565,
+                        "y": 1073,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "My Brothers Keeper (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 832,
+                        "y": 1141,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Old Boys Club (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1745,
+                        "y": 581,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Polaris (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1941,
+                        "y": 994,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Take Control (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1250,
+                        "y": 1365,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "The Face Of The Enemy (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 1178,
+                        "y": 918,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Threshold (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 426,
+                        "y": 964,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Unknown Caller (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 843,
+                        "y": 632,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Welcome To The Oldest House (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "Story Missions",
-                "x": 76,
-                "y": 543,
-                "size": 6
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Story Missions",
+                        "x": 470,
+                        "y": 492,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

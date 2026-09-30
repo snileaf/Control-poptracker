@@ -15,19 +15,19 @@
         "name": "Containment Sector",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Containment Sector.png"
+        "img": "images/maps/containmentsector.png"
     },
     {
         "name": "Executive Sector",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Executive Sector.png"
+        "img": "images/maps/executivesector.png"
     },
     {
         "name": "Maintenance Sector",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Maintenance Sector.png"
+        "img": "images/maps/maintenancesector.png"
     },
     {
         "name": "Oceanview Motel (Location)",
@@ -39,7 +39,7 @@
         "name": "Research Sector",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Research Sector.png"
+        "img": "images/maps/researchsector.png"
     },
     {
         "name": "Sectors",

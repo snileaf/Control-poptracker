@@ -9,46 +9,16 @@
         ],
         "children": [
             {
-                "name": "What A Mess",
+                "name": "A Captive Audience (Mission)",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "researchsector,clearancelevel3,$checked|@Directorial Override (Mission)"
                 ],
                 "sections": [
                     {
-                        "name": "Burn The Trash (Mission)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Clear The Clog (Mission)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Clear The Mold (Mission)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Even More Mold (Mission)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Take A Break (Mission)",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Talk To The Plants (Mission)",
+                        "name": "",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -57,105 +27,497 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 385,
-                        "y": 734,
+                        "x": 465,
+                        "y": 416,
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "A Captive Audience (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             },
             {
                 "name": "A Good Defense (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "maintenancesector,clearancelevel2,$checked|@Directorial Override (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1303,
+                        "y": 1942,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "A Matter Of Time (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel1,$checked|@Unknown Caller (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1247,
+                        "y": 1506,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "A Merry Chase (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "maintenancesector,clearancelevel1,$checked|@Unknown Caller (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 438,
+                        "y": 2256,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Dr. Yoshimi Tokuis Guided Imagery Experience (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel3,$checked|@Directorial Override (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 835,
+                        "y": 2101,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Fridge Duty (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1634,
+                        "y": 248,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Langstons Runaways (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel5,$checked|@Fridge Duty (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 2394,
+                        "y": 1275,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Mold Removal (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel5,$checked|@Old Growth (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 151,
+                        "y": 565,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Mr. Tommasi (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel6,$checked|@Finnish Tango (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1198,
+                        "y": 1624,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Old Friends (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "maintenancesector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1260,
+                        "y": 158,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Old Growth (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel5,$checked|@Threshold (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 864,
+                        "y": 745,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Put A Record On (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "executivesector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 1186,
+                        "y": 310,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "Self-Reflection (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "researchsector,clearancelevel6"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 175,
+                        "y": 117,
+                        "size": 6
+                    }
+                ]
             },
             {
                 "name": "The Enemy Within (Mission)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "containmentsector,clearancelevel5,$checked|@A Matter Of Time (Mission)"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Side Missions",
+                        "x": 966,
+                        "y": 1609,
+                        "size": 6
+                    }
+                ]
+            },
             {
-                "map": "Side Missions",
-                "x": 790,
-                "y": 2314,
-                "size": 6
+                "name": "What A Mess",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Burn The Trash (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "maintenancesector,clearancelevel2,$checked|@Unknown Caller (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 374,
+                                "y": 1928,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clear The Clog (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "maintenancesector,clearancelevel2,$checked|@Directorial Override (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 621,
+                                "y": 1681,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clear The Mold (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "containmentsector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 1502,
+                                "y": 1341,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Even More Mold (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "maintenancesector,clearancelevel6,$checked|@The Face Of The Enemy (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 638,
+                                "y": 1498,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Take A Break (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "maintenancesector,clearancelevel6,$checked|@Burn The Trash (Mission),$checked|@Clear The Clog (Mission),$checked|Clear The Mold (Mission),$checked|@Even More Mold (Mission),$checked|@Talk To The Plants (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 795,
+                                "y": 1193,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Talk To The Plants (Mission)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "researchsector,clearancelevel5,$checked|@Threshold (Mission)"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Side Missions",
+                                "x": 1297,
+                                "y": 60,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

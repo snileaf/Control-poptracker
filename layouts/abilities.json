@@ -23,13 +23,13 @@
                 "energy1",
                 "melee1",
                 "launch1",
-                "update",
+                "",
                 "shield1",
-                "update",
+                "",
                 "seize1",
-                "update",
+                "",
                 "levitate1",
-                "update"
+                ""
               ],
               [
                 "health2",
@@ -40,7 +40,7 @@
                 "shield2",
                 "shieldbarrage",
                 "seize2",
-                "update",
+                "",
                 "levitate2",
                 "groundslam"
               ],
@@ -66,7 +66,7 @@
                 "shield4",
                 "shieldrush",
                 "seize4",
-                "update",
+                "",
                 "levitate4",
                 "groundslam2"
               ],
@@ -92,7 +92,7 @@
                 "shield6",
                 "shieldenergyrecovery",
                 "seize6",
-                "update",
+                "",
                 "levitate6",
                 "groundslam4"
               ]

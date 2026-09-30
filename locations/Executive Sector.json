@@ -1,99 +1,351 @@
 [
-    {
-        "name": "Executive Sector",
+  {
+    "name": "Executive Sector",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "executivesector"
+    ],
+    "children": [
+      {
+        "name": "Board Room (Location)",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+          ""
         ],
         "sections": [
-            {
-                "name": "Board Room (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Cafeteria (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Central Executive (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Central Executive (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Communications Dept. (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Dead Letters (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Dead Letters (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Directors Office (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Executive Affairs (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Hotline Chamber (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Mail Room (Control Point)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Mail Room (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Pneumatics (Location)",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
         ],
         "map_locations": [
-            {
-                "map": "Executive Sector",
-                "x": 84,
-                "y": 2275,
-                "size": 6
-            }
+          {
+            "map": "Executive Sector",
+            "x": 1903,
+            "y": 1396,
+            "size": 24,
+            "shape": "trapezoid"
+          }
         ]
-    }
+      },
+      {
+        "name": "Cafeteria (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1609,
+            "y": 885,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Central Executive (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1608,
+            "y": 1399,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Central Executive (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1609,
+            "y": 1477,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Communications Dept. (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1128,
+            "y": 686,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Dead Letters (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1515,
+            "y": 446,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Dead Letters (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1515,
+            "y": 564,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Directors Office (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1221,
+            "y": 1267,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Executive Affairs (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1456,
+            "y": 1925,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Hotline Chamber (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 918,
+            "y": 1652,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Mail Room (Control Point)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1297,
+            "y": 1152,
+            "size": 24,
+            "shape": "diamond"
+          }
+        ]
+      },
+      {
+        "name": "Mail Room (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "clearancelevel1,$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1044,
+            "y": 998,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      },
+      {
+        "name": "Pneumatics (Location)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "$checked|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Executive Sector",
+            "x": 1127,
+            "y": 221,
+            "size": 24,
+            "shape": "trapezoid"
+          }
+        ]
+      }
+    ]
+  }
 ]
