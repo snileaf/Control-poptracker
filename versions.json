@@ -2,8 +2,8 @@
     "versions": [
         {
             "package_version": "0.0.1",
-            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.2/Satisfactory-PopTracker.v0.1.2.zip",
-            "sha256": "bb387052a7fe3e25fa0a482a1480b2e406d3d44ecacb9b4e0e368dc83d99ceb5",
+            "download_url": "https://github.com/snileaf/Control-poptracker/releases/download/v0.0.1/Control-PopTracker.v0.0.1.zip",
+            "sha256": "23c11f478f33174a57f0262617849a1c703b0387f7099e23c46885a4d14cb480",
             "changelog": [
                 "Initial release."
             ]
