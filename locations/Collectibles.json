@@ -430,7 +430,7 @@
                 "name": "Marshall - Lockdown Distinctions",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -686,7 +686,7 @@
                 "name": "Tommasi - Willow AWE Outcome",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -718,7 +718,7 @@
                 "name": "Travel Costs",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -782,7 +782,7 @@
                 "name": "Trench - Dead Letter Approval",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -919,7 +919,7 @@
                 "name": "Book Club - Penny",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -983,7 +983,7 @@
                 "name": "Book Club - Samson",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -1424,7 +1424,7 @@
                 "name": "Tee Time",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector,clearancelevel1"
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -1721,7 +1721,7 @@
                 "name": "Dead Presidents",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -1785,7 +1785,7 @@
                 "name": "Machine God",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -1881,7 +1881,7 @@
                 "name": "Singing Fish",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -3432,7 +3432,7 @@
                 "name": "Data Breach",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "executivesector"
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
