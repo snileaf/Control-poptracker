@@ -1,16 +1,17 @@
 {
-    "name": "Control Archipelago",
-    "game_name": "Control",
-    "package_version": "0.0.1",
-    "package_uid": "control_ap",
-    "author": "Snileaf, builder_script, Control Archipelago Community",
-    "variants": {
-        "Map Tracker": {
-            "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        }
-    },
-    "min_poptracker_version": "0.35.4"
+  "name": "Control Archipelago",
+  "game_name": "Control",
+  "package_version": "0.0.1",
+  "package_uid": "control_ap",
+  "author": "Snileaf, builder_script, Control Archipelago Community",
+  "variants": {
+    "Map Tracker": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  "versions_url": "https://raw.githubusercontent.com/snileaf/Control-poptracker/versions/versions.json",
+  "min_poptracker_version": "0.35.4"
 }
