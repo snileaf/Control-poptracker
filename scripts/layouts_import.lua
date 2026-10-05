@@ -1,7 +1,0 @@
-Tracker:AddLayouts("layouts/settings_popup.json")
-Tracker:AddLayouts("layouts/abilities.json")
-Tracker:AddLayouts("layouts/weapon.json")
-Tracker:AddLayouts("layouts/access.json")
-Tracker:AddLayouts("layouts/tabs.json")
-Tracker:AddLayouts("layouts/tracker.json")
-Tracker:AddLayouts("layouts/broadcast.json")
