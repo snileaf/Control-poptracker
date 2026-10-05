@@ -92,7 +92,7 @@
                 "name": "Arish - Escaped OoP",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "maintenancesector,clearancelevel2,$checked|@Unknown Caller (Mission)"
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -124,7 +124,7 @@
                 "name": "Arish - Security Matters",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "maintenancesector,clearancelevel1,$checked|@Unknown Caller (Mission)"
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -156,7 +156,7 @@
                 "name": "Cafeteria Concerns",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  "maintenancesector,clearancelevel5,$checked|@Old Growth (Mission)"
+                  "maintenancesector,clearancelevel5,$cleared|@Old Growth (Mission)"
                 ],
                 "sections": [
                   {
@@ -188,7 +188,7 @@
                 "name": "Carla - File Received",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -220,7 +220,7 @@
                 "name": "Darling - Budget Request",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -252,7 +252,7 @@
                 "name": "Darling - Underhill Disagreement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel4,$cleared|@Unknown Caller (Mission),$cleared|@A Merry Chase (Mission)"
                 ],
                 "sections": [
                   {
@@ -284,7 +284,7 @@
                 "name": "Dump Cessation of Work Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -316,7 +316,7 @@
                 "name": "Executive Meeting Minutes",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -341,7 +341,7 @@
                 "name": "Field Training Actor Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -373,7 +373,7 @@
                 "name": "Hubert - Black Rock Analysis",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -405,7 +405,7 @@
                 "name": "Marshall - AWE Investigations",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -430,7 +430,7 @@
                 "name": "Marshall - Lockdown Distinctions",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -462,7 +462,7 @@
                 "name": "Marshall - Trenchs Behavior",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -494,7 +494,7 @@
                 "name": "No Smoking Reminder",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys' Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -526,7 +526,7 @@
                 "name": "Precognitive Powers",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -558,7 +558,7 @@
                 "name": "Prohibited Items Reminder",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -590,7 +590,7 @@
                 "name": "R4 Reports Reminder",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -622,7 +622,7 @@
                 "name": "Security Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -654,7 +654,7 @@
                 "name": "Sensory Tank Purpose",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -686,7 +686,7 @@
                 "name": "Tommasi - Willow AWE Outcome",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -718,7 +718,7 @@
                 "name": "Travel Costs",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -750,7 +750,7 @@
                 "name": "Trench - Bureau Funding",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1"
                 ],
                 "sections": [
                   {
@@ -782,7 +782,7 @@
                 "name": "Trench - Dead Letter Approval",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -814,7 +814,7 @@
                 "name": "Unstable Area Notice",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -846,7 +846,7 @@
                 "name": "Visitor Evaluations",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -887,7 +887,7 @@
                 "name": "Book Club - Lopez",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -919,7 +919,7 @@
                 "name": "Book Club - Penny",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -951,7 +951,7 @@
                 "name": "Book Club - Phillip",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -983,7 +983,7 @@
                 "name": "Book Club - Samson",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1015,7 +1015,7 @@
                 "name": "Clog Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1047,7 +1047,7 @@
                 "name": "Darling - Dimensional Staffing",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -1079,7 +1079,7 @@
                 "name": "Dinner Reservations",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1104,7 +1104,7 @@
                 "name": "Dr. Tokui Tapes",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -1136,7 +1136,7 @@
                 "name": "Furnace Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -1168,7 +1168,7 @@
                 "name": "Janitor Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -1200,7 +1200,7 @@
                 "name": "Mail Tube Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1232,7 +1232,7 @@
                 "name": "Plant Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1264,7 +1264,7 @@
                 "name": "Quarry Equipment Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -1296,7 +1296,7 @@
                 "name": "Quarry Worker Incident",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -1328,7 +1328,7 @@
                 "name": "Sand Memo",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -1360,7 +1360,7 @@
                 "name": "Shifted Bathroom Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1392,7 +1392,7 @@
                 "name": "Sticky Note Complaint",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4"
                 ],
                 "sections": [
                   {
@@ -1424,7 +1424,7 @@
                 "name": "Tee Time",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1"
                 ],
                 "sections": [
                   {
@@ -1456,7 +1456,7 @@
                 "name": "Tennyson Report Warning",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1474,6 +1474,13 @@
                     "y": 1889,
                     "size": 6,
                     "shape": "rect"
+                  },
+                  {
+                    "map": "Maintenance Sector",
+                    "x": 1876,
+                    "y": 378,
+                    "size": 14,
+                    "shape": "rect"
                   }
                 ]
               },
@@ -1481,7 +1488,7 @@
                 "name": "Trench - Do Not Disturb",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1513,7 +1520,7 @@
                 "name": "Underhill - Checking In",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel4,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1545,7 +1552,7 @@
                 "name": "Upcoming Game Reminder",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1577,7 +1584,7 @@
                 "name": "Work Chat - Dead Dog",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -1609,7 +1616,7 @@
                 "name": "Work Chat - Plane Parts",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -1641,7 +1648,7 @@
                 "name": "Work Chat - Teeth",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -1682,7 +1689,7 @@
                 "name": "Cat Clock",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -1714,7 +1721,7 @@
                 "name": "Dead Presidents",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1746,7 +1753,7 @@
                 "name": "Fake Planes",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel2"
                 ],
                 "sections": [
                   {
@@ -1778,7 +1785,7 @@
                 "name": "Machine God",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1810,7 +1817,7 @@
                 "name": "Our Whereabouts",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -1842,7 +1849,7 @@
                 "name": "Pinstripe World",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -1874,7 +1881,7 @@
                 "name": "Singing Fish",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -1906,7 +1913,7 @@
                 "name": "Smoking Ban",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -1938,7 +1945,7 @@
                 "name": "Vivid Dreams",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -1970,7 +1977,7 @@
                 "name": "White Kitchen",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel4,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2022,7 +2029,7 @@
                 "name": "Ahtis Cabin",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -2047,7 +2054,7 @@
                 "name": "Album Cover",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2079,7 +2086,7 @@
                 "name": "Astral Exhibition",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2111,7 +2118,7 @@
                 "name": "Astral Plane (Research)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2143,7 +2150,7 @@
                 "name": "Astral Plane Counteressay",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2175,7 +2182,7 @@
                 "name": "Atlas Theory",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -2207,7 +2214,7 @@
                 "name": "Black Rock (Research)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4"
                 ],
                 "sections": [
                   {
@@ -2239,7 +2246,7 @@
                 "name": "Black Rock Prisms",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -2271,7 +2278,7 @@
                 "name": "Collective Unconscious",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -2303,7 +2310,7 @@
                 "name": "Control Points (Research)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -2335,7 +2342,7 @@
                 "name": "Groupthink",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -2367,7 +2374,7 @@
                 "name": "Hedron Containment",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -2399,7 +2406,7 @@
                 "name": "Home Safe Tests",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2431,7 +2438,7 @@
                 "name": "Lucky Item Manifest",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5"
                 ],
                 "sections": [
                   {
@@ -2463,7 +2470,7 @@
                 "name": "Mirror Altered Item",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -2495,7 +2502,7 @@
                 "name": "Mirror Containment",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -2527,7 +2534,7 @@
                 "name": "Mold Threshold",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel4,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2559,7 +2566,7 @@
                 "name": "NSC",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -2591,7 +2598,7 @@
                 "name": "Object and Item Distinctions",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2623,7 +2630,7 @@
                 "name": "Ordinary AWE Stage 1.A",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2655,7 +2662,7 @@
                 "name": "Ordinary AWE Stage 1.B",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2687,7 +2694,7 @@
                 "name": "Ordinary AWE Stage 2",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2719,7 +2726,7 @@
                 "name": "Ordinary AWE Stage 3",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2751,7 +2758,7 @@
                 "name": "Ordinary AWE Stage 4.A",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2783,7 +2790,7 @@
                 "name": "Ordinary AWE Stage 4.B",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -2815,7 +2822,7 @@
                 "name": "Parautility",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1"
                 ],
                 "sections": [
                   {
@@ -2847,7 +2854,7 @@
                 "name": "Resonance Theory",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2879,7 +2886,7 @@
                 "name": "Rituals",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -2911,7 +2918,7 @@
                 "name": "Slide Projector Tests",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3"
                 ],
                 "sections": [
                   {
@@ -2943,7 +2950,7 @@
                 "name": "Song Questionnaire",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -2975,7 +2982,7 @@
                 "name": "Synchronicity",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -3007,7 +3014,7 @@
                 "name": "Synchronicity Experiment",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -3039,7 +3046,7 @@
                 "name": "Technological Restrictions",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3071,7 +3078,7 @@
                 "name": "The Formation",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -3096,7 +3103,7 @@
                 "name": "Threshold Utility",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -3128,7 +3135,7 @@
                 "name": "Threshold Utility Counteressay",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel4,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -3160,7 +3167,7 @@
                 "name": "Thresholds",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -3192,7 +3199,7 @@
                 "name": "Urban Legends",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3233,7 +3240,7 @@
                 "name": "Airplane Evaluation Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -3265,7 +3272,7 @@
                 "name": "Altered Item Behavior Changes",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3297,7 +3304,7 @@
                 "name": "America Overnight Results",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3"
                 ],
                 "sections": [
                   {
@@ -3329,7 +3336,7 @@
                 "name": "Astralnauts Information",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -3361,7 +3368,7 @@
                 "name": "AWE Rising Frequency",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -3393,7 +3400,7 @@
                 "name": "Bureau Expenditures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3425,7 +3432,7 @@
                 "name": "Data Breach",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3457,7 +3464,7 @@
                 "name": "Director Faden Photograph",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
                 ],
                 "sections": [
                   {
@@ -3482,7 +3489,7 @@
                 "name": "Director Trench Photograph",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3507,7 +3514,7 @@
                 "name": "Dr. Tokui Investigation",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -3539,7 +3546,7 @@
                 "name": "Dylan Faden Observation",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3571,7 +3578,7 @@
                 "name": "Dylan Faden Transcript",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3603,7 +3610,7 @@
                 "name": "Employee Incident",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -3635,7 +3642,7 @@
                 "name": "Hotline Security Log",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -3667,7 +3674,7 @@
                 "name": "Investigation Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -3692,7 +3699,7 @@
                 "name": "Jesse Faden Movement Tracking",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3724,7 +3731,7 @@
                 "name": "Mold Autopsy",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3756,7 +3763,7 @@
                 "name": "P6 Victim Autopsy",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3788,7 +3795,7 @@
                 "name": "Panopticon Methods Proposal",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3820,7 +3827,7 @@
                 "name": "Popes Promotion",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -3852,7 +3859,7 @@
                 "name": "Portrait of Director Zachariah Trench",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -3877,7 +3884,7 @@
                 "name": "Quarry Incident",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -3909,7 +3916,7 @@
                 "name": "Recording Chair Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -3941,7 +3948,7 @@
                 "name": "Salvadors ID",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5"
                 ],
                 "sections": [
                   {
@@ -3966,7 +3973,7 @@
                 "name": "Sealed Threshold Account",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@A Matter Of Time (Mission)"
                 ],
                 "sections": [
                   {
@@ -3998,7 +4005,7 @@
                 "name": "Television Proposal",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -4030,7 +4037,7 @@
                 "name": "Tennyson Report",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -4050,13 +4057,6 @@
                     "shape": "rect"
                   },
                   {
-                    "map": "Maintenance Sector",
-                    "x": 1876,
-                    "y": 378,
-                    "size": 14,
-                    "shape": "rect"
-                  },
-                  {
                     "map": "Containment Sector",
                     "x": 1356,
                     "y": 1797,
@@ -4069,7 +4069,7 @@
                 "name": "Threshold Kids Proposal",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -4101,7 +4101,7 @@
                 "name": "Tommasis ID",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -4133,7 +4133,7 @@
                 "name": "Willow AWE Shipping Manifest",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -4174,7 +4174,7 @@
                 "name": "Hiss Agent",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -4199,7 +4199,7 @@
                 "name": "Hiss Barrier",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -4224,7 +4224,7 @@
                 "name": "Hiss Charged",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4249,7 +4249,7 @@
                 "name": "Hiss Cluster",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4274,7 +4274,7 @@
                 "name": "Hiss Demolition Expert",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -4299,7 +4299,7 @@
                 "name": "Hiss Distorted",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -4324,7 +4324,7 @@
                 "name": "Hiss Elevated",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -4349,7 +4349,7 @@
                 "name": "Hiss Guard",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -4374,7 +4374,7 @@
                 "name": "Hiss Ranger",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -4399,7 +4399,7 @@
                 "name": "Hiss Sniper",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4424,7 +4424,7 @@
                 "name": "Hiss Trooper",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4449,7 +4449,7 @@
                 "name": "Hiss Warped",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -4474,7 +4474,7 @@
                 "name": "Initial Impressions",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4506,7 +4506,7 @@
                 "name": "Linguistic Ability",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -4538,7 +4538,7 @@
                 "name": "Speech Analysis",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -4570,7 +4570,7 @@
                 "name": "Timeline of Events",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -4602,7 +4602,7 @@
                 "name": "Variance in Alterations",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Take Control (Mission)"
                 ],
                 "sections": [
                   {
@@ -4654,7 +4654,7 @@
                 "name": "AI52 Testing",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -4686,7 +4686,7 @@
                 "name": "Astralnaut Liability",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -4718,7 +4718,7 @@
                 "name": "Expedition Debrief",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4"
                 ],
                 "sections": [
                   {
@@ -4750,7 +4750,7 @@
                 "name": "FBC Reminder - Altered Workspace",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -4782,7 +4782,7 @@
                 "name": "FBC Reminder - Building Shifts",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -4807,7 +4807,7 @@
                 "name": "FBC Reminder - Pink Documents",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4839,7 +4839,7 @@
                 "name": "feirbeD rorriM",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -4871,7 +4871,7 @@
                 "name": "Furnace Research",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -4903,7 +4903,7 @@
                 "name": "Medical Examination",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -4935,7 +4935,7 @@
                 "name": "Mirror Debrief",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -4967,7 +4967,7 @@
                 "name": "Quarry Site Beta Log 1",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -4992,7 +4992,7 @@
                 "name": "Quarry Site Beta Log 2",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5017,7 +5017,7 @@
                 "name": "Salvador - Security Order",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -5049,7 +5049,7 @@
                 "name": "Threshold Log 1",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5081,7 +5081,7 @@
                 "name": "Threshold Log 2",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5113,7 +5113,7 @@
                 "name": "Threshold Log 3",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5145,7 +5145,7 @@
                 "name": "Tommasi - AWE Report",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -5186,7 +5186,7 @@
                 "name": "Altered Items (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -5218,7 +5218,7 @@
                 "name": "Altered World Events",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5250,7 +5250,7 @@
                 "name": "Astral Plane (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -5275,7 +5275,7 @@
                 "name": "Astral Spike (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5307,7 +5307,7 @@
                 "name": "Black Rock (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -5332,7 +5332,7 @@
                 "name": "Dylan Faden",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -5357,7 +5357,7 @@
                 "name": "Dyna-mite",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
                 ],
                 "sections": [
                   {
@@ -5382,7 +5382,7 @@
                 "name": "Final Message",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -5407,7 +5407,7 @@
                 "name": "Floppy Disk (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -5439,7 +5439,7 @@
                 "name": "Hedron",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -5464,7 +5464,7 @@
                 "name": "Hotline (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -5489,7 +5489,7 @@
                 "name": "HRAs",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5521,7 +5521,7 @@
                 "name": "Large Scale HRA",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission),$cleared|@A Merry Chase (Mission)"
                 ],
                 "sections": [
                   {
@@ -5553,7 +5553,7 @@
                 "name": "Objects of Power (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -5578,7 +5578,7 @@
                 "name": "Oceanview Motel and Casino",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -5610,7 +5610,7 @@
                 "name": "Ordinary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -5642,7 +5642,7 @@
                 "name": "Research Sector (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5667,7 +5667,7 @@
                 "name": "Resonance",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -5692,7 +5692,7 @@
                 "name": "Slidescape-36 (Presentation)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -5717,7 +5717,7 @@
                 "name": "Spare Footage",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5742,7 +5742,7 @@
                 "name": "The Oldest House",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -5783,7 +5783,7 @@
                 "name": "Altered Items (Threshold Kids)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -5815,7 +5815,7 @@
                 "name": "Astral Plane (Threshold Kids)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5847,7 +5847,7 @@
                 "name": "Keeping Secrets",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -5879,7 +5879,7 @@
                 "name": "Missing Momma",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -5911,7 +5911,7 @@
                 "name": "When Youre Caught in a House Shift",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -5936,7 +5936,7 @@
                 "name": "You and Your Special Powers",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -5977,7 +5977,7 @@
                 "name": "America Overnight Ep. 349",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6009,7 +6009,7 @@
                 "name": "America Overnight Ep. 352",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6041,7 +6041,7 @@
                 "name": "America Overnight Ep. 356",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -6073,7 +6073,7 @@
                 "name": "America Overnight Ep. 359",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -6114,7 +6114,7 @@
                 "name": "Dylan Evaluation",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6146,7 +6146,7 @@
                 "name": "Dylan Questioning",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -6178,7 +6178,7 @@
                 "name": "Jesse Therapy - Polaris",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6210,7 +6210,7 @@
                 "name": "Jesse Therapy - Slide Projector",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -6251,7 +6251,7 @@
                 "name": "Old Gods of Asgard - Take Control",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -6276,7 +6276,7 @@
                 "name": "Poets of the Fall - My Dark Disquiet",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -6308,7 +6308,7 @@
                 "name": "Sankarin Tango (Heros Tango)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -6353,7 +6353,7 @@
                 "name": "Albany Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -6385,7 +6385,7 @@
                 "name": "Albany Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -6417,7 +6417,7 @@
                 "name": "Bright Falls Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -6449,7 +6449,7 @@
                 "name": "Bright Falls Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -6481,7 +6481,7 @@
                 "name": "Butte Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -6513,7 +6513,7 @@
                 "name": "Butte Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -6545,7 +6545,7 @@
                 "name": "Emergency Call Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -6577,7 +6577,7 @@
                 "name": "Emergency Call Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -6609,7 +6609,7 @@
                 "name": "Havana Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -6641,7 +6641,7 @@
                 "name": "Havana Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -6673,7 +6673,7 @@
                 "name": "Ordinary Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6705,7 +6705,7 @@
                 "name": "Ordinary Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6737,7 +6737,7 @@
                 "name": "Sterling Summary",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -6769,7 +6769,7 @@
                 "name": "Sterling Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -6810,7 +6810,7 @@
                 "name": "Anchor Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -6835,7 +6835,7 @@
                 "name": "Anchor Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -6867,7 +6867,7 @@
                 "name": "Balloon Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6899,7 +6899,7 @@
                 "name": "Balloon Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6931,7 +6931,7 @@
                 "name": "Fan Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -6963,7 +6963,7 @@
                 "name": "Fan Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -6995,7 +6995,7 @@
                 "name": "Globe Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7027,7 +7027,7 @@
                 "name": "Globe Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7059,7 +7059,7 @@
                 "name": "Hammer Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7091,7 +7091,7 @@
                 "name": "Hammer Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7123,7 +7123,7 @@
                 "name": "Hand Chair Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Fridge Duty (Mission)"
                 ],
                 "sections": [
                   {
@@ -7148,7 +7148,7 @@
                 "name": "Letters Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Fridge Duty (Mission)"
                 ],
                 "sections": [
                   {
@@ -7173,7 +7173,7 @@
                 "name": "Mannequin Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Fridge Duty (Mission),$cleared|@Paper Lantern Procedures,$cleared|@Letters Procedures,$cleared|@Traffic Light Procedures,$cleared|Hand Chair Procedures"
                 ],
                 "sections": [
                   {
@@ -7198,7 +7198,7 @@
                 "name": "Mannequin Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7230,7 +7230,7 @@
                 "name": "Mirror Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6"
                 ],
                 "sections": [
                   {
@@ -7255,7 +7255,7 @@
                 "name": "Mirror Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7287,7 +7287,7 @@
                 "name": "Paper Lantern Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,$cleared|@A Matter Of Time (Mission),$cleared|@Fridge Duty (Mission)"
                 ],
                 "sections": [
                   {
@@ -7312,7 +7312,7 @@
                 "name": "Paper Lantern Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7344,7 +7344,7 @@
                 "name": "Picnic Basket Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7376,7 +7376,7 @@
                 "name": "Picnic Basket Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7408,7 +7408,7 @@
                 "name": "Pink Flamingo Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,$cleared|@Fridge Duty (Mission),$cleared|@Paper Lantern Procedures,$cleared|@Letters Procedures,$cleared|@Traffic Light Procedures,$cleared|Hand Chair Procedures"
                 ],
                 "sections": [
                   {
@@ -7433,7 +7433,7 @@
                 "name": "Pink Flamingo Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7465,7 +7465,7 @@
                 "name": "Plastic Tree Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7497,7 +7497,7 @@
                 "name": "Plastic Tree Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -7529,7 +7529,7 @@
                 "name": "Post Box Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7561,7 +7561,7 @@
                 "name": "Post Box Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7593,7 +7593,7 @@
                 "name": "Pram Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7625,7 +7625,7 @@
                 "name": "Pram Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7657,7 +7657,7 @@
                 "name": "Refrigerator Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7682,7 +7682,7 @@
                 "name": "Refrigerator Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -7714,7 +7714,7 @@
                 "name": "Rubber Duck Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel4,$cleared|@Fridge Duty (Mission),$cleared|@Paper Lantern Procedures,$cleared|@Letters Procedures,$cleared|@Traffic Light Procedures,$cleared|Hand Chair Procedures"
                 ],
                 "sections": [
                   {
@@ -7739,7 +7739,7 @@
                 "name": "Rubber Duck Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -7771,7 +7771,7 @@
                 "name": "Surfboard Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7803,7 +7803,7 @@
                 "name": "Surfboard Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7835,7 +7835,7 @@
                 "name": "Swan Boat Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel4,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -7867,7 +7867,7 @@
                 "name": "Thermos Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7899,7 +7899,7 @@
                 "name": "Traffic Light Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Fridge Duty (Mission)"
                 ],
                 "sections": [
                   {
@@ -7924,7 +7924,7 @@
                 "name": "Typewritten Page Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -7956,7 +7956,7 @@
                 "name": "Typewritten Page Supplement",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -7988,7 +7988,7 @@
                 "name": "Water Cooler Procedures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -8029,7 +8029,7 @@
                 "name": "Ashtray and Cigarette",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -8054,7 +8054,7 @@
                 "name": "Benicoff TV",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -8079,7 +8079,7 @@
                 "name": "Floppy Disk (Case File)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8104,7 +8104,7 @@
                 "name": "Home Safe",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -8129,7 +8129,7 @@
                 "name": "Hotline (Case File)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8154,7 +8154,7 @@
                 "name": "Jukebox",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -8179,7 +8179,7 @@
                 "name": "Merry-Go-Round Horse",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -8204,7 +8204,7 @@
                 "name": "Service Weapon",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector"
                 ],
                 "sections": [
                   {
@@ -8229,7 +8229,7 @@
                 "name": "Slide Projector",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
                 ],
                 "sections": [
                   {
@@ -8254,7 +8254,7 @@
                 "name": "X-Ray Light Box",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -8299,7 +8299,7 @@
                 "name": "Ashtray Maze",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -8317,6 +8317,13 @@
                     "y": 825,
                     "size": 6,
                     "shape": "rect"
+                  },
+                  {
+                    "map": "Research Sector",
+                    "x": 1228,
+                    "y": 1426,
+                    "size": 14,
+                    "shape": "rect"
                   }
                 ]
               },
@@ -8324,7 +8331,7 @@
                 "name": "Control Points (Trench)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8349,7 +8356,7 @@
                 "name": "Endless Grind",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
                 ],
                 "sections": [
                   {
@@ -8374,7 +8381,7 @@
                 "name": "Hotline (Hotline)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8399,7 +8406,7 @@
                 "name": "Internal Lockdown",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -8424,7 +8431,7 @@
                 "name": "Management Team",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8449,7 +8456,7 @@
                 "name": "Northmoor",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {
@@ -8474,7 +8481,7 @@
                 "name": "Oceanview Motel (Hotline)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8499,7 +8506,7 @@
                 "name": "Panopticon",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel2,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -8517,6 +8524,13 @@
                     "y": 2415,
                     "size": 6,
                     "shape": "rect"
+                  },
+                  {
+                    "map": "Containment Sector",
+                    "x": 2566,
+                    "y": 208,
+                    "size": 36,
+                    "shape": "rect"
                   }
                 ]
               },
@@ -8524,7 +8538,7 @@
                 "name": "Prime Candidates",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                   {
@@ -8542,6 +8556,13 @@
                     "y": 986,
                     "size": 6,
                     "shape": "rect"
+                  },
+                  {
+                    "map": "Containment Sector",
+                    "x": 1534,
+                    "y": 1532,
+                    "size": 14,
+                    "shape": "rect"
                   }
                 ]
               },
@@ -8549,7 +8570,7 @@
                 "name": "Slidescape-36 (Hotline)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                   {
@@ -8567,6 +8588,13 @@
                     "y": 1395,
                     "size": 6,
                     "shape": "rect"
+                  },
+                  {
+                    "map": "Research Sector",
+                    "x": 2831,
+                    "y": 1148,
+                    "size": 14,
+                    "shape": "rect"
                   }
                 ]
               },
@@ -8574,7 +8602,7 @@
                 "name": "The Coming Storm",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8608,7 +8636,7 @@
                 "name": "Astral Constructs",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
                 ],
                 "sections": [
                   {
@@ -8633,7 +8661,7 @@
                 "name": "Board Countermeasures",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8658,7 +8686,7 @@
                 "name": "Control Points (Board)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8683,7 +8711,7 @@
                 "name": "Dissent",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -8708,7 +8736,7 @@
                 "name": "Former",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                   {
@@ -8733,7 +8761,7 @@
                 "name": "Foundation (Hotline)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                 ],
                 "sections": [
                   {
@@ -8758,7 +8786,7 @@
                 "name": "Objects of Power (Hotline)",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                   {
@@ -8783,7 +8811,7 @@
                 "name": "The Directorship",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
                 ],
                 "sections": [
                   {
@@ -8808,7 +8836,7 @@
                 "name": "The Future",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
                 ],
                 "sections": [
                   {
@@ -8833,7 +8861,7 @@
                 "name": "The Hiss",
                 "overlay_background": "#000000",
                 "access_rules": [
-                  " "
+                  "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                   {

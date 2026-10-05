@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "researchsector,clearancelevel3,$checked|@Directorial Override (Mission)"
+                    "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                     {
@@ -22,14 +22,19 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "X-Ray Light Box",
+                        "ref": "Collectibles/Case Files/Objects of Power/X-Ray Light Box/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 465,
-                        "y": 416,
-                        "size": 6
+                        "x": 88,
+                        "y": 73,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -39,7 +44,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "maintenancesector,clearancelevel2,$checked|@Directorial Override (Mission)"
+                    "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                     {
@@ -47,14 +52,19 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Home Safe",
+                        "ref": "Collectibles/Case Files/Objects of Power/Home Safe/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1303,
-                        "y": 1942,
-                        "size": 6
+                        "x": 155,
+                        "y": 67,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -64,7 +74,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "containmentsector,clearancelevel1,$checked|@Unknown Caller (Mission)"
+                    "containmentsector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                     {
@@ -72,14 +82,23 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Anchor Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Anchor Procedures/"
+                    },
+                    {
+                        "name": "Spare Footage",
+                        "ref": "Collectibles/Multimedia/Darling Presentations/Spare Footage/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1247,
-                        "y": 1506,
-                        "size": 6
+                        "x": 211,
+                        "y": 64,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -89,7 +108,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "maintenancesector,clearancelevel1,$checked|@Unknown Caller (Mission)"
+                    "maintenancesector,clearancelevel1,$cleared|@Unknown Caller (Mission)"
                 ],
                 "sections": [
                     {
@@ -97,14 +116,19 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Merry-Go-Round Horse",
+                        "ref": "Collectibles/Case Files/Objects of Power/Merry-Go-Round Horse/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 438,
-                        "y": 2256,
-                        "size": 6
+                        "x": 264,
+                        "y": 64,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -114,7 +138,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "researchsector,clearancelevel3,$checked|@Directorial Override (Mission)"
+                    "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
                 ],
                 "sections": [
                     {
@@ -127,9 +151,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 835,
-                        "y": 2101,
-                        "size": 6
+                        "x": 326,
+                        "y": 64,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -139,7 +164,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "containmentsector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                    "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                     {
@@ -147,14 +172,23 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Refrigerator Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Refrigerator Procedures/"
+                    },
+                    {
+                        "name": "Former",
+                        "ref": "Collectibles/Hotline/Board/Former/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1634,
-                        "y": 248,
-                        "size": 6
+                        "x": 385,
+                        "y": 58,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -164,7 +198,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "containmentsector,clearancelevel5,$checked|@Fridge Duty (Mission)"
+                    "containmentsector,clearancelevel6,$cleared|@Fridge Duty (Mission)"
                 ],
                 "sections": [
                     {
@@ -172,14 +206,43 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Rubber Duck Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Rubber Duck Procedures/"
+                    },
+                    {
+                        "name": "Paper Lantern Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Paper Lantern Procedures/"
+                    },
+                    {
+                        "name": "Traffic Light Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Traffic Light Procedures/"
+                    },
+                    {
+                        "name": "Hand Chair Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Hand Chair Procedures/"
+                    },
+                    {
+                        "name": "Pink Flamingo Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Pink Flamingo Procedures/"
+                    },
+                    {
+                        "name": "Mannequin Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Mannequin Procedures/"
+                    },
+                    {
+                        "name": "Letters Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Letters Procedures/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 2394,
-                        "y": 1275,
-                        "size": 6
+                        "x": 446,
+                        "y": 55,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -189,7 +252,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "researchsector,clearancelevel5,$checked|@Old Growth (Mission)"
+                    "researchsector,clearancelevel5,$cleared|@Old Growth (Mission)"
                 ],
                 "sections": [
                     {
@@ -202,9 +265,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 151,
-                        "y": 565,
-                        "size": 6
+                        "x": 91,
+                        "y": 147,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -214,7 +278,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "containmentsector,clearancelevel6,$checked|@Finnish Tango (Mission)"
+                    "containmentsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
                 ],
                 "sections": [
                     {
@@ -227,9 +291,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1198,
-                        "y": 1624,
-                        "size": 6
+                        "x": 144,
+                        "y": 147,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -239,7 +304,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "maintenancesector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                    "maintenancesector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                     {
@@ -252,9 +317,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1260,
-                        "y": 158,
-                        "size": 6
+                        "x": 194,
+                        "y": 149,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -264,7 +330,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "researchsector,clearancelevel5,$checked|@Threshold (Mission)"
+                    "researchsector,clearancelevel5,$cleared|@Threshold (Mission)"
                 ],
                 "sections": [
                     {
@@ -277,9 +343,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 864,
-                        "y": 745,
-                        "size": 6
+                        "x": 252,
+                        "y": 144,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -289,7 +356,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "executivesector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                    "executivesector,clearancelevel3,$cleared|@My Brothers Keeper (Mission)"
                 ],
                 "sections": [
                     {
@@ -297,14 +364,35 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "The Formation",
+                        "ref": "Collectibles/Research & Records/Research/The Formation/"
+                    },
+                    {
+                        "name": "Jukebox",
+                        "ref": "Collectibles/Case Files/Objects of Power/Jukebox/"
+                    },
+                    {
+                        "name": "Investigation Order",
+                        "ref": "Collectibles/Research & Records/Reports/Investigation Order/"
+                    },
+                    {
+                        "name": "Quarry Site Beta Log 1",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Quarry Site Beta Log 1/"
+                    },
+                    {
+                        "name": "Quarry Site Beta Log 2",
+                        "ref": "Collectibles/Multimedia/FBC Recordings/Quarry Site Beta Log 2/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 1186,
-                        "y": 310,
-                        "size": 6
+                        "x": 323,
+                        "y": 147,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -322,14 +410,19 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Mirror Procedures",
+                        "ref": "Collectibles/Case Files/Altered Items/Mirror Procedures/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 175,
-                        "y": 117,
-                        "size": 6
+                        "x": 382,
+                        "y": 144,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -339,7 +432,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "containmentsector,clearancelevel5,$checked|@A Matter Of Time (Mission)"
+                    "containmentsector,clearancelevel5,$cleared|@A Matter Of Time (Mission)"
                 ],
                 "sections": [
                     {
@@ -352,9 +445,10 @@
                 "map_locations": [
                     {
                         "map": "Side Missions",
-                        "x": 966,
-                        "y": 1609,
-                        "size": 6
+                        "x": 441,
+                        "y": 141,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -373,7 +467,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "maintenancesector,clearancelevel2,$checked|@Unknown Caller (Mission)"
+                            "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
                         ],
                         "sections": [
                             {
@@ -386,9 +480,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 374,
-                                "y": 1928,
-                                "size": 6
+                                "x": 85,
+                                "y": 229,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -398,7 +493,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "maintenancesector,clearancelevel2,$checked|@Directorial Override (Mission)"
+                            "maintenancesector,clearancelevel2,$cleared|@Directorial Override (Mission)"
                         ],
                         "sections": [
                             {
@@ -411,9 +506,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 621,
-                                "y": 1681,
-                                "size": 6
+                                "x": 152,
+                                "y": 229,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -423,7 +519,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "containmentsector,clearancelevel5,$checked|@My Brothers Keeper (Mission)"
+                            "containmentsector,clearancelevel5,$cleared|@My Brothers Keeper (Mission)"
                         ],
                         "sections": [
                             {
@@ -436,9 +532,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 1502,
-                                "y": 1341,
-                                "size": 6
+                                "x": 208,
+                                "y": 220,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -448,7 +545,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "maintenancesector,clearancelevel6,$checked|@The Face Of The Enemy (Mission)"
+                            "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
                         ],
                         "sections": [
                             {
@@ -461,9 +558,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 638,
-                                "y": 1498,
-                                "size": 6
+                                "x": 264,
+                                "y": 226,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -473,7 +571,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "maintenancesector,clearancelevel6,$checked|@Burn The Trash (Mission),$checked|@Clear The Clog (Mission),$checked|Clear The Mold (Mission),$checked|@Even More Mold (Mission),$checked|@Talk To The Plants (Mission)"
+                            "maintenancesector,clearancelevel6,$cleared|@Burn The Trash (Mission),$cleared|@Clear The Clog (Mission),$cleared|Clear The Mold (Mission),$cleared|@Even More Mold (Mission),$cleared|@Talk To The Plants (Mission)"
                         ],
                         "sections": [
                             {
@@ -486,9 +584,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 795,
-                                "y": 1193,
-                                "size": 6
+                                "x": 329,
+                                "y": 223,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -498,7 +597,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            "researchsector,clearancelevel5,$checked|@Threshold (Mission)"
+                            "researchsector,clearancelevel5,$cleared|@Threshold (Mission)"
                         ],
                         "sections": [
                             {
@@ -511,9 +610,10 @@
                         "map_locations": [
                             {
                                 "map": "Side Missions",
-                                "x": 1297,
-                                "y": 60,
-                                "size": 6
+                                "x": 385,
+                                "y": 220,
+                                "size": 40,
+                                "shape": "rect"
                             }
                         ]
                     }

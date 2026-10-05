@@ -1,11 +1,5 @@
 [
     {
-        "name": "Astral Plane (Location)",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Astral Plane (Location).png"
-    },
-    {
         "name": "Collectibles",
         "location_size": 6,
         "location_border_thickness": 1,
@@ -30,22 +24,10 @@
         "img": "images/maps/maintenancesector.png"
     },
     {
-        "name": "Oceanview Motel (Location)",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Oceanview Motel (Location).png"
-    },
-    {
         "name": "Research Sector",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/researchsector.png"
-    },
-    {
-        "name": "Sectors",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Sectors.png"
     },
     {
         "name": "Side Missions",

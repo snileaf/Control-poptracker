@@ -22,7 +22,7 @@
                     },
                     {
                       "type": "group",
-                      "header": "Service Weapon",
+                      "header": "Service Weapon and Upgrades",
                       "dock": "top",
                       "content": {
                         "type": "layout",

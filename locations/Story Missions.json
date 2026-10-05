@@ -1,273 +1,485 @@
 [
-    {
-        "name": "Story Missions",
+  {
+    "name": "Story Missions",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      " "
+    ],
+    "children": [
+      {
+        "name": "Directorial Override (Mission)",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+          "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
         ],
-        "children": [
-            {
-                "name": "Directorial Override (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-              "access_rules": [
-                "maintenancesector,clearancelevel2,$cleared|@Unknown Caller (Mission)"
-              ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1243,
-                        "y": 441,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Finnish Tango (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-              "access_rules": [
-                "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
-              ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1565,
-                        "y": 1073,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "My Brothers Keeper (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 832,
-                        "y": 1141,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Old Boys Club (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1745,
-                        "y": 581,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Polaris (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1941,
-                        "y": 994,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Take Control (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1250,
-                        "y": 1365,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "The Face Of The Enemy (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 1178,
-                        "y": 918,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Threshold (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 426,
-                        "y": 964,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Unknown Caller (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 843,
-                        "y": 632,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Welcome To The Oldest House (Mission)",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    ""
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Story Missions",
-                        "x": 470,
-                        "y": 492,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            }
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Hiss Charged",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Charged/"
+          },
+          {
+            "name": "Hiss Trooper",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Trooper/"
+          },
+          {
+            "name": "Internal Lockdown",
+            "ref": "Collectibles/Hotline/Trench/Internal Lockdown/"
+          },
+          {
+            "name": "Northmoor",
+            "ref": "Collectibles/Hotline/Trench/Northmoor/"
+          },
+          {
+            "name": "The Hiss",
+            "ref": "Collectibles/Hotline/Board/The Hiss/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1243,
+            "y": 441,
+            "size": 40,
+            "shape": "rect"
+          }
         ]
-    }
+      },
+      {
+        "name": "Finnish Tango (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "maintenancesector,clearancelevel6,$cleared|@The Face Of The Enemy (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Ahtis Cabin",
+            "ref": "Collectibles/Research & Records/Research/Ahtis Cabin/"
+          },
+          {
+            "name": "Sankarin Tango (Heros Tango)",
+            "ref": "Collectibles/Multimedia/Music/Sankarin Tango (Heros Tango)/"
+          },
+          {
+            "name": "Foundation (Hotline)",
+            "ref": "Collectibles/Hotline/Board/Foundation (Hotline)/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1565,
+            "y": 1073,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "My Brothers Keeper (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "containmentsector,clearancelevel5,$cleared|@Threshold (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Salvadors ID",
+            "ref": "Collectibles/Research & Records/Reports/Salvadors ID/"
+          },
+          {
+            "name": "Benicoff TV",
+            "ref": "Collectibles/Case Files/Objects of Power/Benicoff TV/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 832,
+            "y": 1141,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Old Boys Club (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "researchsector,clearancelevel3,$cleared|@Directorial Override (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Hiss Cluster",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Cluster/"
+          },
+          {
+            "name": "Hiss Sniper",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Sniper/"
+          },
+          {
+            "name": "Hiss Warped",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Warped/"
+          },
+          {
+            "name": "Astral Plane (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Astral Plane (Presentation)/"
+          },
+          {
+            "name": "Research Sector (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Research Sector (Presentation)/"
+          },
+          {
+            "name": "Resonance",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Resonance/"
+          },
+          {
+            "name": "Objects of Power (Hotline)",
+            "ref": "Collectibles/Hotline/Board/Objects of Power (Hotline)/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1745,
+            "y": 581,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Polaris (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "researchsector,clearancelevel6,$cleared|@Finnish Tango (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Ashtray and Cigarette",
+            "ref": "Collectibles/Case Files/Objects of Power/Ashtray and Cigarette/"
+          },
+          {
+            "name": "Final Message",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Final Message/"
+          },
+          {
+            "name": "Hedron",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Hedron/"
+          },
+          {
+            "name": "Slidescape-36 (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Slidescape-36 (Presentation)/"
+          },
+          {
+            "name": "Old Gods of Asgard - Take Control",
+            "ref": "Collectibles/Multimedia/Music/Old Gods of Asgard - Take Control/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1941,
+            "y": 994,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Take Control (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "executivesector,clearancelevel6,$cleared|@Polaris (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Director Faden Photograph",
+            "ref": "Collectibles/Research & Records/Reports/Director Faden Photograph/"
+          },
+          {
+            "name": "Slide Projector",
+            "ref": "Collectibles/Case Files/Objects of Power/Slide Projector/"
+          },
+          {
+            "name": "Dyna-mite",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Dyna-mite/"
+          },
+          {
+            "name": "Endless Grind",
+            "ref": "Collectibles/Hotline/Trench/Endless Grind/"
+          },
+          {
+            "name": "The Future",
+            "ref": "Collectibles/Hotline/Board/The Future/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1250,
+            "y": 1365,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "The Face Of The Enemy (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "containmentsector,clearancelevel6,$cleared|@My Brothers Keeper (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Dylan Faden",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Dylan Faden/"
+          },
+          {
+            "name": "Dissent",
+            "ref": "Collectibles/Hotline/Board/Dissent/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 1178,
+            "y": 918,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Threshold (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "maintenancesector,clearancelevel5,$cleared|@Old Boys Club (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Hiss Distorted",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Distorted/"
+          },
+          {
+            "name": "Black Rock (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Black Rock (Presentation)/"
+          },
+          {
+            "name": "Astral Constructs",
+            "ref": "Collectibles/Hotline/Board/Astral Constructs/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 426,
+            "y": 964,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Unknown Caller (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "executivesector,clearancelevel1,$cleared|@Welcome To The Oldest House (Mission)"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Hiss Barrier",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Barrier/"
+          },
+          {
+            "name": "Hiss Demolition Expert",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Demolition Expert/"
+          },
+          {
+            "name": "Hiss Elevated",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Elevated/"
+          },
+          {
+            "name": "Hiss Ranger",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Ranger/"
+          },
+          {
+            "name": "Floppy Disk (Case File)",
+            "ref": "Collectibles/Case Files/Objects of Power/Floppy Disk (Case File)/"
+          },
+          {
+            "name": "Hotline (Case File)",
+            "ref": "Collectibles/Case Files/Objects of Power/Hotline (Case File)/"
+          },
+          {
+            "name": "Hotline (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Hotline (Presentation)/"
+          },
+          {
+            "name": "Hotline (Hotline)",
+            "ref": "Collectibles/Hotline/Trench/Hotline (Hotline)/"
+          },
+          {
+            "name": "The Coming Storm",
+            "ref": "Collectibles/Hotline/Trench/The Coming Storm/"
+          },
+          {
+            "name": "Control Points (Trench)",
+            "ref": "Collectibles/Hotline/Trench/Control Points (Trench)/"
+          },
+          {
+            "name": "The Directorship",
+            "ref": "Collectibles/Hotline/Board/The Directorship/"
+          },
+          {
+            "name": "Oceanview Motel (Hotline)",
+            "ref": "Collectibles/Hotline/Trench/Oceanview Motel (Hotline)/"
+          },
+          {
+            "name": "Management Team",
+            "ref": "Collectibles/Hotline/Trench/Management Team/"
+          },
+          {
+            "name": "Board Countermeasures",
+            "ref": "Collectibles/Hotline/Board/Board Countermeasures/"
+          },
+          {
+            "name": "Control Points (Board)",
+            "ref": "Collectibles/Hotline/Board/Control Points (Board)/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 843,
+            "y": 632,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      },
+      {
+        "name": "Welcome To The Oldest House (Mission)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+          "executivesector"
+        ],
+        "sections": [
+          {
+            "name": "",
+            "access_rules": [],
+            "visibility_rules": [],
+            "item_count": 1
+          },
+          {
+            "name": "Hiss Agent",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Agent/"
+          },
+          {
+            "name": "Hiss Guard",
+            "ref": "Collectibles/Research & Records/Hiss Research/Hiss Guard/"
+          },
+          {
+            "name": "Director Trench Photograph",
+            "ref": "Collectibles/Research & Records/Reports/Director Trench Photograph/"
+          },
+          {
+            "name": "Portrait of Director Zachariah Trench",
+            "ref": "Collectibles/Research & Records/Reports/Portrait of Director Zachariah Trench/"
+          },
+          {
+            "name": "Service Weapon",
+            "ref": "Collectibles/Case Files/Objects of Power/Service Weapon/"
+          },
+          {
+            "name": "Objects of Power (Presentation)",
+            "ref": "Collectibles/Multimedia/Darling Presentations/Objects of Power (Presentation)/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Story Missions",
+            "x": 470,
+            "y": 492,
+            "size": 40,
+            "shape": "rect"
+          }
+        ]
+      }
+    ]
+  }
 ]

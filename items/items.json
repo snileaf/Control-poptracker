@@ -136,21 +136,21 @@
     "overlay_align": "right",
     "stages": [
       {
-        "name": "Ability Milestone 1",
+        "name": "Ability Milestone 1 - Second Service Weapon Form Slot",
         "inherit_codes": true,
-        "img": "/images/items/milestoneprogressionitem.png",
+        "img": "/images/items/milestoneprogressionitem1.png",
         "codes": "milestoneprogressionitem, milestoneprogressionitem_stage1"
       },
       {
-        "name": "Ability Milestone 2",
+        "name": "Ability Milestone 2 - Second Personal Mod Slot",
         "inherit_codes": true,
-        "img": "/images/items/milestoneprogressionitem.png",
+        "img": "/images/items/milestoneprogressionitem2.png",
         "codes": "milestoneprogressionitem_stage2"
       },
       {
-        "name": "Ability Milestone 3",
+        "name": "Ability Milestone 3 - Third Personal Mod Slot",
         "inherit_codes": true,
-        "img": "/images/items/milestoneprogressionitem.png",
+        "img": "/images/items/milestoneprogressionitem3.png",
         "codes": "milestoneprogressionitem_stage3"
       }
     ]
