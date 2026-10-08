@@ -3,7 +3,7 @@
         {
             "package_version": "0.0.2",
             "download_url": "https://github.com/snileaf/Control-poptracker/releases/download/v0.0.2/Control-PopTracker.v0.0.2.zip",
-            "sha256": "6ccebbcebb33327302f0a688a2b3692e406b6296096c187323513dfce4a30bd3",
+            "sha256": "d7417b3c61fb4b974dfdaab98446836ea204793a4499fd2f9280e7e5b88ed41f",
             "changelog": [
                 "Fixed logic and lua errors."
             ]
